@@ -12,5 +12,5 @@ Projection d’animations sous le thème de chats qui s'affiche soit sur les mur
 * Finaliser le powerpoint pour la présentation orale finale
 * Avancer le bilan de conception
 
-## Lien vers le powerpoint
-https://cmontmorency365-my.sharepoint.com/:p:/g/personal/1834377_cmontmorency_qc_ca/EXPMWGzEjRJFi3xk_emborUB2Fde8e35rMZ9doV44_9BHw?e=bygFgn 
+## Le powerpoint
+
