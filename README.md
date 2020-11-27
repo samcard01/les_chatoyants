@@ -8,5 +8,5 @@ Projection d’animations sous le thème de chats qui s'affiche soit sur les mur
 * Terminer les extraits d'animations
 * Ajouter le son sur les animations
 * Intégrer les vidéos nécessaires dans Max avec leurs sons
-* Hors cours: Rédiger le plus sur le contrôle de qualité - Travail de qualité (Catherine et Samuel)
+* Hors cours: Rédiger le document sur le contrôle de qualité - Travail de qualité (Catherine et Samuel)
 * Finaliser le powerpoint pour la présentation orale finale
