@@ -13,4 +13,4 @@ Projection d’animations sous le thème de chats qui s'affiche soit sur les mur
 * Avancer le bilan de conception
 
 ## Le powerpoint
-
+Disponible dans les fichiers du Github les_chatoyants
