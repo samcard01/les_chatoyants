@@ -10,3 +10,6 @@ Projection d’animations sous le thème de chats qui s'affiche soit sur les mur
 * Intégrer les vidéos nécessaires dans Max avec leurs sons
 * Hors cours: Rédiger le document sur le contrôle de qualité - Travail de qualité (Catherine et Samuel)
 * Finaliser le powerpoint pour la présentation orale finale
+
+## Lien vers le powerpoint
+https://cmontmorency365-my.sharepoint.com/:p:/g/personal/1834377_cmontmorency_qc_ca/EXPMWGzEjRJFi3xk_emborUB2Fde8e35rMZ9doV44_9BHw?e=bygFgn 
