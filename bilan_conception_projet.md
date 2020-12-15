@@ -198,7 +198,6 @@ Nous avons classé nos fichiers par catégorie ou par usage comme démontré ci-
 | ------------- |:-------------:| 
 | 1er octobre 2020      | Assemblage du powerpoint du prototype 1 et Vérification des requis | 
 | 2 octobre 2020      | Présentation du prototype 1      |   
-| zebra stripes | are neat      |
 | 11 novembre 2020    | Assemblage du powerpoint du prototype 2 et Vérification des requis | 
 | 13 novembre 2020      | Présentation du prototype 2 | 
 | 10 décembre 2020      | Assemblage du powerpoint du prototype 3 et Vérification des requis| 
