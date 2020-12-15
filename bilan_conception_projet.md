@@ -15,19 +15,19 @@ C’est une projection d’animations sous le thème de chats s'affichant soit s
 
 | Date de la rencontre       | Sujet(s) abordé(s)         | Preuve  |
 | ------------- |:-------------:| -----:|
-| 4 septembre 2020     | -Élaboration du projet -Brainstorm |  |
-| 11 septembre 2020     | -Direction artistique |  |
-| 15 septembre 2020     | -Élaboration du schéma de branchement -Élaboration du fonctionnement dans Max -Élaboration du déroulement des animations |  |
-| 18 septembre 2020     | -Mise à jour sur le projet et les patchers Max |  |
-| 29 septembre 2020     | -Développement des storyboards des animations -Travail sur les patchers Max |  |
-| 1 octobre 2020     | -Travail sur les patchers Max de son et de lumière |  |
-| 2 octobre 2020     | -Discussion avec le professeur -Travail sur les storyboards des animations |  |
-| 20 octobre 2020     | -Mise à jour sur le projet -Travail sur les patchers Max |  |
-| 23 octobre 2020     | -Élaboration du moodboard de la direction artistique |  |
-| 27 octobre 2020     | -Mise à jour sur le projet -Mise en commun du prototype 2 |  |
-| 30 octobre 2020     | -Mise à jour sur le projet -Élaboration du powerpoint |  |
-| 10 novembre 2020     | -Mise à jour sur le projet -Séparation des sections pour l’oral du prototype 2 |  |
-| 27 novembre 2020     | -Rédaction du bilan de conception de projet multimédia |  |
+| 4 septembre 2020     | -Élaboration du projet -Brainstorm | ![Reunion 01](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/reunion_01.JPG) |
+| 11 septembre 2020     | -Direction artistique | ![Reunion 02](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/reunion_02.JPG) |
+| 15 septembre 2020     | -Élaboration du schéma de branchement -Élaboration du fonctionnement dans Max -Élaboration du déroulement des animations | ![Reunion 03](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/reunion_03.JPG) |
+| 18 septembre 2020     | -Mise à jour sur le projet et les patchers Max | ![Reunion 04](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/reunion_04.JPG) |
+| 29 septembre 2020     | -Développement des storyboards des animations -Travail sur les patchers Max | ![Reunion 05](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/reunion_05.JPG) |
+| 1 octobre 2020     | -Travail sur les patchers Max de son et de lumière | ![Reunion 06](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/reunion_06.JPG) |
+| 2 octobre 2020     | -Discussion avec le professeur -Travail sur les storyboards des animations | ![Reunion 07](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/reunion_07.JPG) |
+| 20 octobre 2020     | -Mise à jour sur le projet -Travail sur les patchers Max | ![Reunion 08](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/reunion_08.JPG) |
+| 23 octobre 2020     | -Élaboration du moodboard de la direction artistique | ![Reunion 09](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/reunion_09.JPG) |
+| 27 octobre 2020     | -Mise à jour sur le projet -Mise en commun du prototype 2 | ![Reunion 10](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/reunion_10.JPG) |
+| 30 octobre 2020     | -Mise à jour sur le projet -Élaboration du powerpoint | ![Reunion 11](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/reunion_11.JPG) |
+| 10 novembre 2020     | -Mise à jour sur le projet -Séparation des sections pour l’oral du prototype 2 | ![Reunion 12](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/reunion_12.JPG) |
+| 27 novembre 2020     | -Rédaction du bilan de conception de projet multimédia | ![Reunion 13](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/reunion_13.JPG) |
 
 
 ## Utilisation de méthodes de travail en équipe  
@@ -49,7 +49,11 @@ L’objectif de ce projet est de faire vivre une expérience interactive ludique
 
 Pour le scénarimage, nous avons chacun fait un scénarimage pour nos animations individuelles. Chacun notre tour, nous avons fait notre partie de scénarimage. Alexandra a assemblé tous les scénarimages ensemble pour en faire un complet.
 
- 
+![Storyboard Alex](https://github.com/samcard01/les_chatoyants/blob/main/images/storyboard/scenarimage_alex.PNG)
+![Storyboard Cath](https://github.com/samcard01/les_chatoyants/blob/main/images/storyboard/scenarimage_cath1.PNG)
+![Storyboard Cath](https://github.com/samcard01/les_chatoyants/blob/main/images/storyboard/scenarimage_cath2.PNG)
+![Storyboard Sam](https://github.com/samcard01/les_chatoyants/blob/main/images/storyboard/scenarimage_sam.PNG)
+![Storyboard Steaven](https://github.com/samcard01/les_chatoyants/blob/main/images/storyboard/scenarimage_steaven.PNG)
  
  
  
@@ -62,7 +66,8 @@ Pour le scénarimage, nous avons chacun fait un scénarimage pour nos animations
 
 Pour organiser nos médias, nous leur avons chacun attribué des dossiers afin de distinguer qu’est-ce qui correspond à telle ou telle chose.
 
-
+![Organisation dossiers 01](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/media_01.JPG)
+![Organisation dossiers 02](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/media_02.JPG)
 
 
 
@@ -72,7 +77,10 @@ Pour organiser nos médias, nous leur avons chacun attribué des dossiers afin d
 
 Pour ce qui est des éléments du design, nous avons réalisé un moodboard en lien avec la direction artistique disponible ci-dessous. Nous voulions une ambiance de noir et blanc afin de permettre aux spectateurs de se concentrer sur les événements qui se produisent au cours de l’expérience.
 
+
 ### Moodboard direction artistique:
+
+![Moodboard direction artistique](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/moodboard_projetSynthese.jpg)
 
 
 Pour ce qui est de la navigation, lorsque la projection démarre, une vidéo de pattes de chat est projetée sur le sol. Les pattes de chats vont aléatoirement se diriger vers l’une des trois boîtes situées l’une à côté de l’autre. Lorsque les pattes de chats atteignent leur destination, l’une des trois boîtes va recevoir la projection d’une vidéo d’animation 2D d’un chat. Des sons vont émerger de la boîte. Une lumière située sous la boîte va s’allumer afin de guider le téléspectateur vers cette boîte. Lorsque la projection se termine, le chat sort de la boîte et revient au début. Enfin, le processus de projection recommence du début.
@@ -120,7 +128,7 @@ Lors de nos premières rencontres sur Teams, nous avons réalisé un schéma de 
 
 ## Schématisation  
 
-
+![Schéma de branchement](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/schema_branchement.JPG)
 
 
 
@@ -163,7 +171,8 @@ Un autre patcher, lui, sera utilisé pour générer des sons d’ambiance aléat
 
 ## Organigrammes de programmation
 
-
+![Patcher vidéo](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/patcher_video.JPG)
+![Patcher son](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/cardinal_samuel_schema_son.png)
 
 
 
@@ -175,10 +184,8 @@ Pour faciliter la lecture, nous avons écrit des commentaires dans nos patchers 
 
 
 
-
-
-## Prototype pour le son:
-
+### Prototype pour le son:
+![Exemple de commentaires Max](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/prototype_son.JPG)
 
 
 ## Classement des fichiers  
@@ -187,9 +194,13 @@ Nous avons classé nos fichiers par catégorie ou par usage comme démontré ci-
 
 ### Vue d’ensemble:
 
+![Organisation dossiers 01](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/media_01.JPG)
+
+
 
 ### Intérieur du dossier fichiers_max: 
 
+![Organisation dossiers 02](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/media_02.JPG)
 
 
 ## Échéancier de production  
