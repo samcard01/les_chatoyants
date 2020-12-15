@@ -1,9 +1,9 @@
 # Nom de projet: Les Chatoyants
 
 ## Résumé
-Projection d’animations sous le thème de chats qui s'affiche soit sur les murs de l'espace ou encore dans une boite. Une vidéo de chat sera affichée sur le sol. Via la vidéo le chat va se diriger jusqu'à l’une des boîtes placées dans l'espace. Le spectateur sera guidé à s'approcher de la boîte par des sons et lumières provenant de celle-ci. Il pourra observer le même chat, mais cette fois-ci animé et dans un espace totalement différent. Une vidéo d’animation 2D sera affichée dans le fond de la boite. Ce même processus se répètera plusieurs fois entre trois différentes boites de façon aléatoire. Le spectateur sera guidé de la même façon (par la vidéo, la lumière et le son), mais présentera des vidéos d’animations différentes à l’intérieur des boites. 
+Notre projet consiste en une projection d’animations sous le thème de chats s’affichant soit sur le sol de la pièce ou encore dans l’une des trois boîtes dans la pièce. Une animation de chat sera affichée sur le sol. Via l’animation, le chat va se diriger jusqu'à l’une des boîtes placées dans l'espace. Le spectateur sera incité à s'approcher de la boîte par des sons et lumières provenant de celle-ci. Il pourra observer le même chat animé et dans un espace totalement différent. Une vidéo d’animation 2D sera affichée dans le fond de la boîte. Ce même processus se répète plusieurs fois entre trois différentes boîtes, et ce de façon aléatoire. Le spectateur sera guidé de la même façon (par la vidéo, la lumière et le son), mais présentera des vidéos d’animations différentes à l’intérieur des boîtes. 
 
-## Roadmap
+## Roadmap (Complété)
 * Terminer les dessins pour les animations
 * Terminer les extraits d'animations
 * Ajouter le son sur les animations
@@ -12,5 +12,5 @@ Projection d’animations sous le thème de chats qui s'affiche soit sur les mur
 * Finaliser le powerpoint pour la présentation orale finale
 * Avancer le bilan de conception
 
-## Le powerpoint
-Disponible dans les fichiers du Github les_chatoyants
+## Les powerpoints
+Disponibles dans les fichiers du Github les_chatoyants
