@@ -1,4 +1,4 @@
-# Journal de "Étudiant 5"
+# Journal de "Catherine Côté"
 
 ## Table des matières
 - [Semaine 0 (25 au 29 janvier)](#Semaine-0-(25-au-29-janvier))
@@ -13,13 +13,9 @@
 ## Semaine 0 (25 au 29 janvier)
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
-- Praesent viverra tristique malesuada. 
-- Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
+- Modifier le mon journal respectif
+- Ajouter les dossiers du model de projet
+- Ajout des tâches en cours dans le Kaban
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/motionCapture.jpg)
