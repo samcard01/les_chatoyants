@@ -1,3 +1,4 @@
+
 ## Dimensions et positionnement des médias  
 
 Chacune des vidéos aura une dimension de 1920x1080 pixels. Trois de ces vidéos seront projetées les unes à côté de l’autre parallèles au mur. La projection se fera dans le fond de l’une des trois boîtes. Une quatrième vidéo sera projetée au sol devant les trois boîtes. Enfin, une cinquième vidéo sera projetée sur le mur positionné derrière les trois boîtes.
