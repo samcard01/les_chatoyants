@@ -5,7 +5,7 @@
 
 # Table des matières
 1. [Intention ou concept](#Intention-ou-concept)
-    - [Synopsis](Notre projet consiste en une projection d’animations sous le thème de chats s’affichant soit sur le sol de la pièce ou encore dans l’une des trois boîtes dans la pièce. Une animation de pattes de chat sera affichée sur le sol. Via l’animation, les pattes de chat vont se diriger jusqu'à l’une des boîtes placées dans l'espace. Le spectateur sera incité à s'approcher de la boîte par des sons et lumières provenant de celle-ci. Il pourra observer le même chat, mais cette fois-ci animé et dans un espace totalement différent. Une vidéo d’animation 2D sera affichée dans le fond de la boîte. Ce même processus se répète plusieurs fois entre trois différentes boîtes, et ce de façon aléatoire. Le spectateur sera guidé de la même façon (par la vidéo, la lumière et le son), mais présentera des vidéos d’animations différentes à l’intérieur des boîtes.)
+    - [Synopsis](#Synopsis)
     - [Intention de départ](#Intention-de-départ)
     - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance-(*moodboard*))
     - [Scénario, scénarimage ou document audio/visuel](#Scénario,-scénarimage-ou-document-audio/visuel)
@@ -28,7 +28,7 @@
 
 # Intention ou concept
 ## Synopsis
-Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
+Notre projet consiste en une projection d’animations sous le thème de chats s’affichant soit sur le sol de la pièce ou encore dans l’une des trois boîtes dans la pièce. Une animation de pattes de chat sera affichée sur le sol. Via l’animation, les pattes de chat vont se diriger jusqu'à l’une des boîtes placées dans l'espace. Le spectateur sera incité à s'approcher de la boîte par des sons et lumières provenant de celle-ci. Il pourra observer le même chat, mais cette fois-ci animé et dans un espace totalement différent. Une vidéo d’animation 2D sera affichée dans le fond de la boîte. Ce même processus se répète plusieurs fois entre trois différentes boîtes, et ce de façon aléatoire. Le spectateur sera guidé de la même façon (par la vidéo, la lumière et le son), mais présentera des vidéos d’animations différentes à l’intérieur des boîtes.
 
 Le public est appelé à découvrir le mystère entourant cette difficile séparation.
 
