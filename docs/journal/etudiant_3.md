@@ -13,9 +13,9 @@
 ## Semaine 0 (25 au 29 janvier)
 
 ### Résumé des réalisations effectuées
--Modifier le mon journal respectif
--Ajouter les dossiers du model de projet
--Ajout des tâches en cours dans le Kaban
+- Modifier le mon journal respectif
+- Ajouter les dossiers du model de projet
+- Ajout des tâches en cours dans le Kaban
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/motionCapture.jpg)
