@@ -13,48 +13,45 @@
 ## Semaine 0 (25 au 29 janvier)
 
 ### Résumé des réalisations effectuées
-- Modification du journal de bord : Renommer et test d'ajout 
-- Ajout des milestones dans les issues 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
-- Praesent viverra tristique malesuada. 
-- Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
+- Renommer mon journal à mon nom
+- Mise en ligne de mon journal
+- Création du projet de Les Chatoyants en automated Kanban
+- Créer des milestones et les associer à mes coéquipiers
+- Rencontre avec mes coéquipiers le mardi 26 janvier (Équipe)
+- Complétion de la section Intention ou Concept de la préproduction
+- Séparation des tâches entre les coéquipiers (Équipe)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![Moi-même devant mon ordinateur qui tape sur le clavier de l'ordinateur](medias/motionCapture.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
-- [x] Peu
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+J'ai pu accomplir toutes les tâches que je m'étais fixées cette semaine parce que c'était des tâches relativement courtes ou bien qui avaient déjà été bien débutées auparavant.
+J'avais du temps libre cette semaine alors j'ai pu mettre du temps pour faire ce que j'avais à faire. Aussi, j'ai eu du temps lors de la première rencontre en classe pour faire les tâches nécessaires comme l'assemblage du github avec notre ancien github préexistant.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+Pour l'instant, le projet avance à un rythme normal, donc pas lent ni rapide. Nous avions déjà une bonne partie de la préproduction réalisée, donc nous ne sommes pas en retard ni en avance. Je suis confiant pour la suite pour le moment.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+N/A
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+La semaine prochaine, je devrai m'assurer avec mon équipe de prendre en compte les commentaires des professeurs sur notre travail de préproduction et de les appliquer afin d'améliorer et de finaliser notre préproduction. 
 
 ---
 ## Semaine 1 (30 janvier au 5 février)
