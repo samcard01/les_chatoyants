@@ -1,4 +1,4 @@
-# Journal de "Samuel Cardinal"
+# Journal de Samuel Cardinal
 
 ## Table des matières
 - [Semaine 0 (25 au 29 janvier)](#Semaine-0-(25-au-29-janvier))
@@ -22,7 +22,8 @@
 - Séparation des tâches entre les coéquipiers (Équipe)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Moi-même devant mon ordinateur qui tape sur le clavier de l'ordinateur](medias/motionCapture.jpg)
+![Moi-même devant mon ordinateur qui tape sur le clavier de l'ordinateur](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/cardinal_samuel_schema_son.png)
+
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
