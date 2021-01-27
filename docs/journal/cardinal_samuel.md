@@ -22,7 +22,7 @@
 - Séparation des tâches entre les coéquipiers (Équipe)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Moi-même devant mon ordinateur qui tape sur le clavier de l'ordinateur](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/cardinal_samuel_schema_son.png)
+![Moi-même devant mon ordinateur qui tape sur le clavier de l'ordinateur](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/samuel_journal_01.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
