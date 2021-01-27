@@ -28,22 +28,24 @@
 
 # Intention ou concept
 ## Synopsis
-Notre projet consiste en une projection d’animations sous le thème de chats s’affichant soit sur le sol de la pièce ou encore dans l’une des trois boîtes dans la pièce. Une animation de pattes de chat sera affichée sur le sol. Via l’animation, les pattes de chat vont se diriger jusqu'à l’une des boîtes placées dans l'espace. Le spectateur sera incité à s'approcher de la boîte par des sons et lumières provenant de celle-ci. Il pourra observer le même chat, mais cette fois-ci animé et dans un espace totalement différent. Une vidéo d’animation 2D sera affichée dans le fond de la boîte. Ce même processus se répète plusieurs fois entre trois différentes boîtes, et ce de façon aléatoire. Le spectateur sera guidé de la même façon (par la vidéo, la lumière et le son), mais présentera des vidéos d’animations différentes à l’intérieur des boîtes.
-
-Le public est appelé à découvrir le mystère entourant cette difficile séparation.
+Notre projet consiste en une projection d’animations sous le thème de chats s’affichant soit sur le sol de la pièce ou encore dans l’une des trois boîtes dans la pièce. Tout d'abord, une animation de pattes de chat sera affichée sur le sol. Via l’animation, les pattes de chat vont se diriger jusqu'à l’une des boîtes placées dans l'espace. Le spectateur sera incité à s'approcher de la boîte par des sons et lumières provenant de celle-ci. Il pourra observer le même chat, mais cette fois-ci animé et dans un espace totalement différent. Une vidéo d’animation 2D sera affichée dans le fond de la boîte. Ce même processus se répète plusieurs fois entre trois différentes boîtes, et ce de façon aléatoire. Le spectateur sera guidé de la même façon (par la vidéo, la lumière et le son), mais présentera des vidéos d’animations différentes à l’intérieur des boîtes.
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer la grande fragilité des relations sociales et amoureuses qui traverse nos vies.
+Notre projet a pour but de rassembler à distance les gens et de les divertir par son aspect ludique et réconfortant, c'est-à-dire un monde imaginaire et onirique. Nous voulons que les gens se délaissent de leurs angoisses du monde réel. 
 
 ## Tableau d'ambiance (*moodboard*)
-> Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
-
-> Insérez directement des captures d'écran et liens vers des médias ici.
-
-[Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
+[Tableau d'ambiance visuels (images, couleurs)](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/moodboard_projetSynthese.jpg)
 
 ## Scénario, scénarimage ou document audio/visuel
-[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
+[Scénarimage visuel pour vidéo d'animation de Samuel](https://github.com/samcard01/les_chatoyants/blob/main/images/storyboard/scenarimage_sam.PNG)
+
+[Scénarimage visuel pour vidéo d'animation d'Alexandra](https://github.com/samcard01/les_chatoyants/blob/main/images/storyboard/scenarimage_alex.PNG)
+
+[Scénarimage visuel pour vidéo d'animation de Catherine 1](https://github.com/samcard01/les_chatoyants/blob/main/images/storyboard/scenarimage_cath1.PNG)
+
+[Scénarimage visuel pour vidéo d'animation de Catherine 2](https://github.com/samcard01/les_chatoyants/blob/main/images/storyboard/scenarimage_cath2.PNG)
+
+[Scénarimage visuel pour vidéo d'animation de Steaven](https://github.com/samcard01/les_chatoyants/blob/main/images/storyboard/scenarimage_steaven.PNG)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
