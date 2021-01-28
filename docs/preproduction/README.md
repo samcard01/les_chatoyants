@@ -82,41 +82,36 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * table
-    * Dimension à venir....
+    * 30 x 30 x 100 cm ~
     * Quantité [3]
 * nape ou drap
-    * Dimension à venir....
+    * 180 x 290 cm
     * Couleur blanc
     * Quantité [3]
 * boite
-    * Dimension à venir...
+    * 20" (comme un éran) (50,8 cm), IPS, Large (16:9)
     * Quantité [3]
 
 ## Équipements requis
-> Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
+> Liste des équipements requis pour le projet [en cours...]
 
 * Audio
-    * 8 haut-parleurs actifs de 4"
-    * 8 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 8 sorties 
+    * 5 haut-parleurs
 
 * Vidéo
     * 2 projecteurs vidéo lentille standard
     * 2 système d'acrochage
-    * 3 webcam logitech c920
 
 * Lumière
-    * 4 lumière LED RGBAW DMX
-    * 4 fils XLR 3 conducteurs de 20'
-    * Console DMX
-    * Interface DMX USB
+    * 3 lumière LED RGBAW DMX
+    * 3 fils XLR 3 conducteurs de 20'
+    * arduino Nano?
 
 * Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 3 fiches et 3 conducteurs 
+    * 10 cordon IEC (pour l'alimentation des haut-parleurs)
     * 2 multiprise
 
-* Réseau
+* Réseau??
     * 4 fils cat6a de 15"
     * Switch poe 5 ports
 
@@ -129,33 +124,35 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
-* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
-    * [node-osc](https://github.com/MylesBorins/node-osc)
+* [Illustrator 2021](https://www.adobe.com/products/illustrator.html) 
 * [Max 8](https://cycling74.com/products/max)   
-* [Unity 2019 lts](https://unity.com/)
-* [Open stage control](https://openstagecontrol.ammd.net/)
+* [after effect 2021](https://www.adobe.com/products/aftereffects.html)
+* [premiere 2021](https://www.adobe.com/products/premiere.html)
+* [storyboarder 1.0.0](https://wonderunit.com/storyboarder/)
+* [Arduino IDE 1.8.13](https://www.arduino.cc/)
+
 
 ## Ressources humaines requises
 > Moments et fonctions où une intervention humaine externe à l'équipe est nécessaire et pourquoi. Formaté en liste ou en lien vers un tableur Excel.
 
-* 32 janvier, TTP, location de matériel 
-* 35 janvier, TTP, retour du matériel
+* 15 février, TTP, location de matériel 
+* 26 mars, TTP, retour du matériel
 
 ## Ressources spatiales requises (rangement et locaux)
 > Moments et spécifications des espaces utilisés formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
-    * 32 janvier au 35 janvier
-        * Projection vidéo dans le cyclo
+    * 15 février
+        * installation de l'équipement
         * 6 heures
-    * 37 janvier au 39 janvier 
-        * Capatation vidéo
-        * 4 heures
+    * 16 février au 25 mars
+        * stockage de l'équipement et installation
+        * ~ heures
+    * 26 mars
+        * Démontage
+        * 3 heures
+    
 
-* Petit studio
-    * 42 janvier au 56 janvier 
-        * Enregsitrement audio
-        * 8 heures
     
 # Planification de la production (budget et étapes de réalisation)
 ## Budget prévisionnel
