@@ -88,8 +88,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Dimension à venir....
     * Couleur blanc
     * Quantité [3]
-* bpite
-    * Dimension à venir....
+* boite
+    * Dimension à venir...
     * Quantité [3]
 
 ## Équipements requis
