@@ -67,22 +67,30 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Schémas ou plans techniques
 > Insérer plans, documents et schémas pertinents dans cette sectio.  
 
-### Schéma de branchement 
+### Schéma de branchement
 
-![exemple de schema](medias/livestream_branchements.png)
+### Schéma de fonctionnement
+
+![exemple de schema](medias/fonctionnementMaxArduino.png)
 
 ### Plantation 
 
-![exemple de plantation](medias/o3_plantation.svg)
+![exemple de plantation](medias/Schéma_projet_synthèse.png)
 
 ## Matériel de scénographie requis
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Divan Louis XIV
-    * Couleur rouge
-    * 12' x 4' x 3'
-* Cyclorama
+* table
+    * Dimension à venir....
+    * Quantité [3]
+* nape ou drap
+    * Dimension à venir....
+    * Couleur blanc
+    * Quantité [3]
+* bpite
+    * Dimension à venir....
+    * Quantité [3]
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
