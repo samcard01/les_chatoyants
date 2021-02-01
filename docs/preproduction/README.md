@@ -105,6 +105,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 2 projecteurs vidéo lentille standard
     * 2 système d'acrochage
     * 4 caméra
+    * 4 trépieds
     * 4 fils pour charger la batterie au mur
     * fil pour afficher sur l'ordinateur? (pour la diffusion)
 
