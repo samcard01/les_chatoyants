@@ -97,19 +97,24 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * Audio
     * 5 haut-parleurs
+    * adaptateur pour brancher à l'ordi plusieur speaker (jack mini ou USB?)
 
 * Vidéo
     * 2 projecteurs vidéo lentille standard
     * 2 système d'acrochage
+    * 4 caméra
+    * 4 fils pour charger la batterie au mur
+    * fil pour afficher sur l'ordinateur? (pour la diffusion)
 
 * Lumière
     * 3 lumière LED RGBAW DMX
     * 3 fils XLR 3 conducteurs de 20'
-    * arduino Nano?
+    * adaptateur pour brancher les LED au arduino Nano
 
 * Électricité
     * 10 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 2 multiprise
+    * 3 multiprise (son/lumière/caméra diffusion)
+    * ~ rallonges
 
 * Réseau??
     * 4 fils cat6a de 15"
@@ -119,7 +124,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 1 ordinateur portable 
     
 * Autre
-    * Tout autre élément pertinant
+    * Arduino Nano
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
