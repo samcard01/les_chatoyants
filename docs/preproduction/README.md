@@ -69,6 +69,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Schéma de branchement
 
+![exemple de schema](medias/schema_branchement.jpg)
+
 ### Schéma de fonctionnement
 
 ![exemple de schema](medias/fonctionnementMaxArduino.png)
