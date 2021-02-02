@@ -37,8 +37,6 @@ Notre projet a pour but de rassembler à distance les gens et de les divertir pa
 [Tableau d'ambiance visuels (images, couleurs)](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/moodboard_projetSynthese.jpg)
 
 ## Scénario, scénarimage ou document audio/visuel
-[Scénarimage visuel pour vidéo d'animation de Samuel](https://github.com/samcard01/les_chatoyants/blob/main/images/storyboard/scenarimage_sam.PNG)
-
 [Scénarimage visuel pour vidéo d'animation d'Alexandra](https://github.com/samcard01/les_chatoyants/blob/main/images/storyboard/scenarimage_alex.PNG)
 
 [Scénarimage visuel pour vidéo d'animation de Catherine 1](https://github.com/samcard01/les_chatoyants/blob/main/images/storyboard/scenarimage_cath1.PNG)
