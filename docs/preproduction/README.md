@@ -28,7 +28,7 @@
 
 # Intention ou concept
 ## Synopsis
-Notre projet consiste en une projection d’animations sous le thème de chats s’affichant soit sur le sol de la pièce ou encore dans l’une des trois boîtes dans la pièce. Tout d'abord, une animation de pattes de chat sera affichée sur le sol. Via l’animation, les pattes de chat vont se diriger jusqu'à l’une des boîtes placées dans l'espace. Le spectateur sera incité à s'approcher de la boîte par des sons et lumières provenant de celle-ci. Il pourra observer le même chat, mais cette fois-ci animé et dans un espace totalement différent. Une vidéo d’animation 2D sera affichée dans le fond de la boîte. Ce même processus se répète plusieurs fois entre trois différentes boîtes, et ce de façon aléatoire. Le spectateur sera guidé de la même façon (par la vidéo, la lumière et le son), mais présentera des vidéos d’animations différentes à l’intérieur des boîtes.
+Notre projet consiste en une projection d’animations sous le thème de chats s’affichant dans l’une des trois boîtes dans la pièce. Le spectateur sera incité à s'approcher de la boîte par des sons et lumières provenant de celle-ci. Il pourra observer un chat animé dans le fond de la boîte. Ce même processus se répète plusieurs fois entre trois différentes boîtes, et ce de façon aléatoire. Le spectateur sera guidé de la même façon (par la vidéo, la lumière et le son), mais présentera des vidéos d’animations différentes à l’intérieur des boîtes.
 
 ## Intention de départ
 Notre projet a pour but de rassembler à distance les gens et de les divertir par son aspect ludique et réconfortant, c'est-à-dire un monde imaginaire et onirique. Nous voulons que les gens se délaissent de leurs angoisses du monde réel. 
@@ -70,6 +70,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Schéma de branchement
 
+![exemple de schema](medias/schema_branchement.jpg)
+
 ### Schéma de fonctionnement
 
 ![exemple de schema](medias/fonctionnementMaxArduino.png)
@@ -98,19 +100,25 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * Audio
     * 5 haut-parleurs
+    * adaptateur pour brancher à l'ordi plusieur speaker (jack mini ou USB?)
 
 * Vidéo
     * 2 projecteurs vidéo lentille standard
     * 2 système d'acrochage
+    * 4 caméra
+    * 4 trépieds
+    * 4 fils pour charger la batterie au mur
+    * fil pour afficher sur l'ordinateur? (pour la diffusion)
 
 * Lumière
     * 3 lumière LED RGBAW DMX
     * 3 fils XLR 3 conducteurs de 20'
-    * arduino Nano?
+    * adaptateur pour brancher les LED au arduino Nano
 
 * Électricité
     * 10 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 2 multiprise
+    * 3 multiprise (son/lumière/caméra diffusion)
+    * ~ rallonges
 
 * Réseau??
     * 4 fils cat6a de 15"
@@ -120,7 +128,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 1 ordinateur portable 
     
 * Autre
-    * Tout autre élément pertinant
+    * Arduino Nano
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
