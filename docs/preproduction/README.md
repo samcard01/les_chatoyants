@@ -28,7 +28,7 @@
 
 # Intention ou concept
 ## Synopsis
-Notre projet consiste en une projection d’animations sous le thème de chats s’affichant soit sur le sol de la pièce ou encore dans l’une des trois boîtes dans la pièce. Tout d'abord, une animation de pattes de chat sera affichée sur le sol. Via l’animation, les pattes de chat vont se diriger jusqu'à l’une des boîtes placées dans l'espace. Le spectateur sera incité à s'approcher de la boîte par des sons et lumières provenant de celle-ci. Il pourra observer le même chat, mais cette fois-ci animé et dans un espace totalement différent. Une vidéo d’animation 2D sera affichée dans le fond de la boîte. Ce même processus se répète plusieurs fois entre trois différentes boîtes, et ce de façon aléatoire. Le spectateur sera guidé de la même façon (par la vidéo, la lumière et le son), mais présentera des vidéos d’animations différentes à l’intérieur des boîtes.
+Notre projet consiste en une projection d’animations sous le thème de chats s’affichant dans l’une des trois boîtes dans la pièce. Le spectateur sera incité à s'approcher de la boîte par des sons et lumières provenant de celle-ci. Il pourra observer un chat animé dans le fond de la boîte. Ce même processus se répète plusieurs fois entre trois différentes boîtes, et ce de façon aléatoire. Le spectateur sera guidé de la même façon (par la vidéo, la lumière et le son), mais présentera des vidéos d’animations différentes à l’intérieur des boîtes.
 
 ## Intention de départ
 Notre projet a pour but de rassembler à distance les gens et de les divertir par son aspect ludique et réconfortant, c'est-à-dire un monde imaginaire et onirique. Nous voulons que les gens se délaissent de leurs angoisses du monde réel. 
