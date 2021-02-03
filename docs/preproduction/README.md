@@ -69,7 +69,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Schéma de branchement
 
-![exemple de schema](medias/schema_branchement.jpg)
+![exemple de schema](medias/schema de branchement.png)
 
 ### Schéma de fonctionnement
 
@@ -83,51 +83,54 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* table
-    * 30 x 30 x 100 cm ~
+* Boite [choix A]
+    * 30 x 30 x 30 cm ~
     * Quantité [3]
-* nape ou drap
+* Barrette 2 x 2 x 8 MILLSTEAD SPF SDRY [choix B]
+    * 2 x 2 x 8
+    * Quantité [5]
+* nape
     * 180 x 290 cm
     * Couleur blanc
     * Quantité [3]
+    * Important, doivent permettre une certaine circulation d'air.
 * boite
     * 20" (comme un éran) (50,8 cm), IPS, Large (16:9)
     * Quantité [3]
+* Studio acrylics
+
+* Titanium White PA011
+    * Quantité [2]
 
 ## Équipements requis
-> Liste des équipements requis pour le projet [en cours...]
+> Liste des équipements requis pour le projet 
 
 * Audio
-    * 5 haut-parleurs
-    * adaptateur pour brancher à l'ordi plusieur speaker (jack mini ou USB?)
+    * 2 haut-parleurs actif
+    * 3 speaker Devoom
+    * carte de sons multi-sorties USB
 
 * Vidéo
     * 2 projecteurs vidéo lentille standard
-    * 2 système d'acrochage
-    * 4 caméra
-    * 4 trépieds
-    * 4 fils pour charger la batterie au mur
-    * fil pour afficher sur l'ordinateur? (pour la diffusion)
+    * 2 systèmes d'acrochage
+    * 1 caméra (diffusion)
+    * 1 trépieds (diffusion)
+    * 1 fil pour charger la batterie au mur (diffusion)
 
 * Lumière
     * 3 lumière LED RGBAW DMX
     * 3 fils XLR 3 conducteurs de 20'
-    * adaptateur pour brancher les LED au arduino Nano
+    * 3 adaptateur USB 
 
 * Électricité
     * 10 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 3 multiprise (son/lumière/caméra diffusion)
-    * ~ rallonges
-
-* Réseau??
-    * 4 fils cat6a de 15"
-    * Switch poe 5 ports
+    * 2 multiprise (son/lumière)
+    * 1 rallonges
 
 * Ordinateur
     * 1 ordinateur portable 
     
-* Autre
-    * Arduino Nano
+
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
@@ -137,15 +140,19 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * [after effect 2021](https://www.adobe.com/products/aftereffects.html)
 * [premiere 2021](https://www.adobe.com/products/premiere.html)
 * [storyboarder 1.0.0](https://wonderunit.com/storyboarder/)
-* [Arduino IDE 1.8.13](https://www.arduino.cc/)
+* [OBS - Open Broadcaster Software 26.1](https://obsproject.com/fr/download)
+
 
 
 ## Ressources humaines requises
 > Moments et fonctions où une intervention humaine externe à l'équipe est nécessaire et pourquoi. Formaté en liste ou en lien vers un tableur Excel.
 
 * 15 février, TTP, location de matériel 
+    * Nous aurons besoin du TTP pour pouvoir faire la location de notre matériel pour le projet
+* 15 février, TTP, aide à l'installation si nécessaire
+    * Nous aurons très certainement besoin à certain moment d'aide pour l'installation de notre matériel. Il sera bien d'avoir   quelqu'un dans les parages si un problème survient ou simplement si nous avons une question. 
 * 26 mars, TTP, retour du matériel
-
+    * Nous aurons besoin du TTP pour nous assisté à certain moment lors faire le démontage de notre installation. De plus, nous aurons besoin du TTP pour pouvoir faire le retour de notre matériel.
 ## Ressources spatiales requises (rangement et locaux)
 > Moments et spécifications des espaces utilisés formaté en liste ou lien vers un tableur Excel.
 
