@@ -72,7 +72,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Schéma de fonctionnement
 
-![exemple de schema](medias/fonctionnementMaxArduino.png)
+![exemple de schema](medias/schema_foonctionnement.png)
 
 ### Plantation 
 
