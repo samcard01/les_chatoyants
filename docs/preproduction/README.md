@@ -68,7 +68,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Schéma de branchement
 
-![exemple de schema](medias/schema de branchement.png)
+![exemple de schema](medias/schema_de_branchement.png)
 
 ### Schéma de fonctionnement
 
