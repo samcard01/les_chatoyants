@@ -57,40 +57,44 @@ La semaine prochaine, je devrai m'assurer avec mon équipe de prendre en compte 
 ---
 ## Semaine 1 (30 janvier au 5 février)
 ### Résumé des réalisations effectuées
-
+- Amélioration du synopsis
+- Amélioration et clarification de l'intention de départ
+- Création de ma liste de tâches sur papier (En cours)
+- Rédaction d'un scénario en présentiel
+- Rédaction d'un scénario en ligne
+- Rédaction de mon journal hebdomadaire
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Rédaction des deux scénarios](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/cardinal_samuel_realisation_4fevrier.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+C'est encore le début du projet et la majorité des modifications que j'avais à faire étaient rapides à faire. Aussi, j'avais bien planifié mes périodes de travail individuelles et de réunion avec mes coéquipiers ce qui m'a permis de respecter les échéanches mises en place. Aussi, j'étais motivé ce qui m'a permis de ne pas procrastiner et d'avoir un bon rythme de travail.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
+Je veux essayer de commencer à apprendre des choses par rapport à la diffusion avec Twitch et OBS. Aussi, j'aimerais commencer à trouver des idées pour le thumbnail.
 
 ---
 ## Semaine 2 (6 au 12 février)
