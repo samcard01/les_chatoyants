@@ -83,6 +83,10 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ![exemple de plantation](medias/Schéma_projet_synthèse.png)
 
+### Plan des 3 tables
+
+![exemple de la table](medias/plan_table.png)
+
 ## Matériel de scénographie requis
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
