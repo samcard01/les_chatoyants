@@ -51,28 +51,37 @@ Compléter la préproduction
 ---
 ## Semaine 1 (30 janvier au 5 février)
 ### Résumé des réalisations effectuées
-
+- schéma de plantation
+- schéma de fonctionnement
+- schéma de branchement [en cours]
+- avancement de la liste de matériel [en cours]
+- liste de logiciel utilisé
+- liste de matériel scénographie
+- ressource humaine requise
+- ressource spatial requise
+- commencer les illustrations pour les animations
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![Voici le schéma de branchement pour notre projet. celui-ci n'est pas compléter mais je suis tout de même très fiere de ce qui a été fait pour l'intant. J'ai fais beaucoup de réflection et de dessin brouillon avant d'en arriver à cette version-ci](medias/schema_de_branchement.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai pu terminer ou très bien avancer toutes mes tâches de cette semaine. J'ai même pu tranquilllement commencer les illustrations dédiés à mon animation qui se déroule dans un grand aquarium. De plus, mon équipe et moi avons pu mettre au clair plusieurs point de notre production.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Pour la liste de matériel et le schéma de branchement j'ai dejà pris rendez-vous avec le TTP pour pouvoir compléter ce qui me manque.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -84,7 +93,8 @@ Compléter la préproduction
 
 
 ### Défis pour la prochaine semaine
-
+-terminer la liste de matériel avec le schéma de branchement
+-terminer et remettre la préprduction pour mardi le 9 février
 
 ---
 ## Semaine 2 (6 au 12 février)
