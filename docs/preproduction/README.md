@@ -46,11 +46,9 @@ Dans ces temps difficiles, le projet des Chatoyants a pour but de rassembler à 
 
 [Scénarimage visuel pour vidéo d'animation de Steaven](medias/scenarimage_steaven.PNG)
 
-Scénario en présence:
-(medias/chatoyants_presentiel.pdf)
+[Scénario en présentiel](medias/chatoyants_presentiel.pdf)
 
-Scénario en ligne:
-(medias/chatoyants_en_ligne.pdf)
+[Scénario en ligne](medias/chatoyants_en_ligne.pdf)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
