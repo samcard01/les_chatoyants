@@ -87,12 +87,13 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Boite [choix A]
-    * 30 x 30 x 30 cm ~
-    * Quantité [3]
-* Barrette 2 x 2 x 8 MILLSTEAD SPF SDRY [choix B]
+#### IMPORTANT! L'artiste fournira tous le matériels de scénographies pour le projet
+* Barrette 2 x 2 x 8 MILLSTEAD SPF SDRY [choix A]
     * 2 x 2 x 8
     * Quantité [5]
+* Boite [choix B]
+    * 30 x 30 x 30 cm ~
+    * Quantité [3]
 * nape
     * 180 x 290 cm
     * Couleur blanc
@@ -101,9 +102,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * boite
     * 20" (comme un éran) (50,8 cm), IPS, Large (16:9)
     * Quantité [3]
-* Studio acrylics
-
-* Titanium White PA011
+* Studio acrylics Titanium White PA011
     * Quantité [2]
 
 ## Équipements requis
