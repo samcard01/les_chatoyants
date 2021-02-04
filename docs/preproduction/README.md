@@ -174,8 +174,8 @@ Revenus = 0$
 
 Dépenses: 
 - 3 nappes (environ 1$45 chacune)
-- Peinture (environ 5$)
-- Total = 10$
+- Bois pour des tables (environ 3$ chacune)
+- Total = 20$
 
 
 ## Échéancier global
