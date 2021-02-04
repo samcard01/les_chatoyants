@@ -180,22 +180,23 @@ Dépenses:
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
-https://github.com/tim-montmorency/66B-modele_de_projet/milestones
+https://github.com/samcard01/les_chatoyants/milestones
 
 *Dates importantes de diffusion :*
 - Pratique générale : 19 mars (toute la journée)
 - Début de la diffusion : lundi 22 mars
 - Présentation des projets devant public : jeudi 25 mars (soir)
 
+
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_query=is%3Aopen
+https://github.com/samcard01/les_chatoyants/projects/1
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues
+https://github.com/samcard01/les_chatoyants/issues
+
 
 ## Rôles et responsabilités des membres de l'équipe
-
 
 **Alexandra**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
@@ -206,7 +207,9 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 - Installation de l'équipement dans l'espace physique.
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
 
-Liste des tâches dans Git Hub:  
+Liste des tâches dans Git Hub: 
+https://github.com/samcard01/les_chatoyants/issues/assigned/alexmai05
+https://github.com/samcard01/les_chatoyants/projects/1?card_filter_query=assignee%3Aalexmai05
 
 
 **Catherine**
@@ -220,6 +223,8 @@ Liste des tâches dans Git Hub:
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
 
 Liste des tâches dans Git Hub:  
+https://github.com/samcard01/les_chatoyants/issues/assigned/CatherineCote
+https://github.com/samcard01/les_chatoyants/projects/1?card_filter_query=assignee%3Acatherinecote
 
 
 **Samuel**
@@ -231,6 +236,8 @@ Liste des tâches dans Git Hub:
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
 
 Liste des tâches dans Git Hub:  
+https://github.com/samcard01/les_chatoyants/issues/assigned/samcard01
+https://github.com/samcard01/les_chatoyants/projects/1?card_filter_query=assignee%3Asamcard01
 
 
 **Steaven**
@@ -242,14 +249,15 @@ Liste des tâches dans Git Hub:
 - Installation de l'équipement dans l'espace physique.
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
 
-Liste des tâches dans Git Hub:  
+Liste des tâches dans Git Hub:
+https://github.com/samcard01/les_chatoyants/issues/assigned/SteavenR
+https://github.com/samcard01/les_chatoyants/projects/1?card_filter_query=assignee%3Asteavenr
 
 **Pas clair**
 - Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules.
 
-Liste des tâches dans Git Hub:  
-
 **Tâches pas encore attribuées**  
+https://github.com/samcard01/les_chatoyants/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
 
 
 ## Moments des rencontres d'équipe
