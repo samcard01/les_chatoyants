@@ -28,22 +28,29 @@
 
 # Intention ou concept
 ## Synopsis
-Notre projet consiste en une projection d’animations sous le thème de chats s’affichant dans l’une des trois boîtes dans la pièce. Le spectateur sera incité à s'approcher de la boîte par des sons et lumières provenant de celle-ci. Il pourra observer un chat animé dans le fond de la boîte. Ce même processus se répète plusieurs fois entre trois différentes boîtes, et ce de façon aléatoire. Le spectateur sera guidé de la même façon (par la vidéo, la lumière et le son), mais présentera des vidéos d’animations différentes à l’intérieur des boîtes.
+Les Chatoyants est une projection d’animations sous le thème de chats s’affichant dans l’une des trois boîtes situées l'une à côté de l'autre et le long du mur du fond de la salle. Tout d'abord, une animation d'un chat projetée sur le mur, où sont situés les boîtes, va aléatoirement choisir parmi laquelle des trois boîtes il entrera. Par la suite, le spectateur sera incité à s'approcher de la boîte par des sons et lumières provenant de la boîte choisie. Aussi, les autres boîtes ne seront pas mises en évidence afin de guider le spectateur vers la boîte choisie. Dans la boîte choisie, une projection d'une animation d'un chat dans une certaine dimension, selon la boîte, sera projetée dans le fond de la dite boîte. Ce même processus se répète plusieurs fois entre les trois différentes boîtes, et ce, de façon aléatoire. Le spectateur sera guidé de la même façon (par la vidéo, la lumière et le son), mais présentera des vidéos d’animations différentes à l’intérieur des boîtes, selon la boîte choisie. Le chat ressort de la boîte lorsque la projection est terminée et choisit de nouveau une boîte dans laquelle il ira, et ce, en cycle. Le principe sera le même en ligne, cependant le spectateur pourra choisir parmi les trois personnes suivantes : Mathis, 9 ans, Jasmine, 19 ans ainsi que Jacques, 46 ans. Selon le point de vue choisi, le spectateur va pouvoir
+explorer les univers différents, et ce, dans un ordre différent. Selon la personne choisie, la hauteur de la caméra va varier.
 
 ## Intention de départ
-Notre projet a pour but de rassembler à distance les gens et de les divertir par son aspect ludique et réconfortant, c'est-à-dire un monde imaginaire et onirique. Nous voulons que les gens se délaissent de leurs angoisses du monde réel. 
+Dans ces temps difficiles, le projet des Chatoyants a pour but de rassembler à distance les gens par son aspect ludique et réconfortant, c'est-à-dire un monde imaginaire et onirique. La présence des chats permet de se distraire des différents éléments stressants de la vie réelle. Notre projet attouche une source de réconfort et un aspect rassurant dans ces temps difficiles par la présence chaleureuse des chats.
 
 ## Tableau d'ambiance (*moodboard*)
-[Tableau d'ambiance visuels (images, couleurs)](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/moodboard_projetSynthese.jpg)
+[Tableau d'ambiance visuels (images, couleurs)](medias/moodboard_projetSynthese.jpg)
 
 ## Scénario, scénarimage ou document audio/visuel
-[Scénarimage visuel pour vidéo d'animation d'Alexandra](https://github.com/samcard01/les_chatoyants/blob/main/images/storyboard/scenarimage_alex.PNG)
+[Scénarimage visuel pour vidéo d'animation d'Alexandra](medias/scenarimage_alex.PNG)
 
-[Scénarimage visuel pour vidéo d'animation de Catherine 1](https://github.com/samcard01/les_chatoyants/blob/main/images/storyboard/scenarimage_cath1.PNG)
+[Scénarimage visuel pour vidéo d'animation de Catherine 1](medias/scenarimage_cath1.PNG)
 
-[Scénarimage visuel pour vidéo d'animation de Catherine 2](https://github.com/samcard01/les_chatoyants/blob/main/images/storyboard/scenarimage_cath2.PNG)
+[Scénarimage visuel pour vidéo d'animation de Catherine 2](medias/scenarimage_cath2.PNG)
 
-[Scénarimage visuel pour vidéo d'animation de Steaven](https://github.com/samcard01/les_chatoyants/blob/main/images/storyboard/scenarimage_steaven.PNG)
+[Scénarimage visuel pour vidéo d'animation de Steaven](medias/scenarimage_steaven.PNG)
+
+Scénario en présence:
+(medias/chatoyants_presentiel.pdf)
+
+Scénario en ligne:
+(medias/chatoyants_en_ligne.pdf)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
