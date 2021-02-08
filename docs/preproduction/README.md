@@ -110,8 +110,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Quantité [2]
 
 ## Équipements requis
-> Liste des équipements requis pour le projet 
-[Scénario en présentiel](formulaire_emprunt.xlsx)
+> Liste des équipements requis pour le projet pour plus de détail téléchargez le
+[Formulaire d'emprunt](formulaire_emprunt.xlsx)
 * Audio
     * 2 haut-parleurs Genelec 8010 8"
     * 3 speaker Divoom Airbeat-10
