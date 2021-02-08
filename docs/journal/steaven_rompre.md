@@ -29,7 +29,7 @@
 Je suis toutefois fier d'avoir accomplis cette réalisation, car c'est difficile pour moi d'assimiler Github, j'ai toujours eu une certaine difficulté avec cette interface.  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Aucune information.
+Aucunes information.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -42,7 +42,7 @@ Aucune information.
 Moi et les membre de mon équipe avons eu la chance de pouvoir discuter à propos de notre projet et des étapes que nous allions franchir éventuellement. Il reste à compléter la préproduction du projet. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Aucune informations.
+Aucunes informations.
 
 ### Défis pour la prochaine semaine
 Mon équipe et moi allons remplir la préproduction qui est à remettre pour la semaine prochaine.
@@ -50,40 +50,43 @@ Mon équipe et moi allons remplir la préproduction qui est à remettre pour la 
 ---
 ## Semaine 1 (30 janvier au 5 février)
 ### Résumé des réalisations effectuées
-
+- J'ai remplis la section qui m'était désigné dans la préproduction et le tableau dans Excel
+- Participation à la réunion technique
+- Organiser les dates de réunion avec mon équipe et de ce que nous avions besoin en matériel
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Ma section de la préproduction remplit](medias/semaine_1_steaven.JPG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ - J'ai accomplit tout ce que j'avais à faire pour cette semaine, par contre, il manque quelques informations qui étaient plus ou moins claires avec mon équipe.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- Pour remédier à la situation, je vais rajouter les éléments manquant dans ma section de la préproduction.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Aucunes informations.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Aucunes informations.
 
 ### Défis pour la prochaine semaine
-
+- Le défi pour la semaine prochaine, pour ma part, sera de finaliser ma section de la préproduction et d'aider mon équipe en cas de besoin.
+- Commencer à chercher pour des matériaux à utiliser pour le projet et calculer le prix.
 
 ---
 ## Semaine 2 (6 au 12 février)
