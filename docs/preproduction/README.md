@@ -113,29 +113,34 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Liste des équipements requis pour le projet 
 
 * Audio
-    * 2 haut-parleurs actif
-    * 3 speaker Devoom
-    * carte de sons multi-sorties USB
+    * 2 haut-parleurs Genelec 8010 8"
+    * 3 speaker Divoom Airbeat-10
+    * carte de sons Berhinger U-phoria 8 in 8 out
+    * 2 câbles XLR
+    * 1 adaptateurs 1/8 femelle trs vers 1/4 male trs
+    * 1 cable 1/4 XLR femelle
 
 * Vidéo
-    * 2 projecteurs vidéo lentille standard
+    * 2 projecteurs standard, ratio 1.5, 3500 lumens
     * 2 systèmes d'acrochage
-    * 1 caméra (diffusion)
+    * 1 caméra A6000 (difusion)
     * 1 trépieds (diffusion)
-    * 1 fil pour charger la batterie au mur (diffusion)
+    * 1 Adaptateur Sony ACPW20 pour série a6000 (diffusion)
+    * 4 câbles HDMI
+    * 2 extendeur HDMI
+    * 1 câble micro HDMI vers HDMI 
 
 * Lumière
-    * 3 lumière LED RGBAW DMX
+    * 3 american DJ5PX HEX LED Par can
     * 3 fils XLR 3 conducteurs de 20'
-    * 3 adaptateur USB 
+    * Transformateur DMX USB vers XLR
 
 * Électricité
-    * 10 cordon IEC (pour l'alimentation des haut-parleurs)
+    * 2 cordon IEC (pour l'alimentation des haut-parleurs Genelec)
     * 2 multiprise (son/lumière)
-    * 1 rallonges
 
 * Ordinateur
-    * 1 ordinateur portable 
+    * 1 ordinateur 
     
 
 
