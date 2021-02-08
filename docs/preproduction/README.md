@@ -111,13 +111,13 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ## Équipements requis
 > Liste des équipements requis pour le projet 
-
+[Scénario en présentiel](formulaire_emprunt.xlsx)
 * Audio
     * 2 haut-parleurs Genelec 8010 8"
     * 3 speaker Divoom Airbeat-10
     * carte de sons Berhinger U-phoria 8 in 8 out
     * 2 câbles XLR
-    * 1 adaptateurs 1/8 femelle trs vers 1/4 male trs
+    * 1 
     * 1 cable 1/4 XLR femelle
 
 * Vidéo
