@@ -57,7 +57,8 @@ Dans ces temps difficiles, le projet des Chatoyants a pour but de rassembler à 
 - 4 vidéos d'animations 2D
 - 3 modules multimédias : Contrôle de vidéos, contrôle de l'éclairage et contrôle du son
 
-Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
+> Pour plus de détails :
+[Contenu à intégrer](contenu_multimédia.xlsx)
 
 ## Univers artistique des éléments
 
