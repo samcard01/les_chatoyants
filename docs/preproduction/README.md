@@ -62,7 +62,7 @@ Dans ces temps difficiles, le projet des Chatoyants a pour but de rassembler à 
 
 ## Univers artistique des éléments
 
-- Paysages sonores : Dans la scène de départ (Idle), il y aura une musique en arrière-plan. Dans les scènes des chats, il y aura des sons reliés à chaque dimension (ex : son d'eau, de bulle dans la dimension aquatique).
+- Paysages sonores : Les paysages sonores dans notre projet mène le public vers la bonne humeur afin de s'échapper de la situation actuelle. Le son d'ambiance est plutôt neutre, il vient rappeler l'impact psychologique de la pandémie. 
 - Vidéos animations 2D : Le projet est en noir et blanc. Le blanc est utilisé pour le chat et les contours en arrière-plan, le noir est utilisé pour l'arrière-plan. Le déroulement de chaque animation : Un chat se retrouve dans une dimension (aquatique, imaginaire ou dans une chute), il parcourt la dimension et finit par se faire aspirer dans une boite pour revenir au Idle.
 - Modules multimédias : Les animations seront projetées par des projecteurs. Il y aura une lumières en dessous de chaque table pour démontrer quelle animation est active dans une boite. Il y aura le contrôle du son entre la vidéo de départ (Idle) et la dimension dans lequel le chat se retrouve.
 
