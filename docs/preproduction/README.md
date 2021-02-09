@@ -71,6 +71,9 @@ Dans ces temps difficiles, le projet des Chatoyants a pour but de rassembler à 
     Musique hivernale : [Télécharger](medias/hivernale.mp3)
 
 - Vidéos animations 2D : Le projet est en noir et blanc. Le blanc est utilisé pour le chat et les contours en arrière-plan, le noir est utilisé pour l'arrière-plan. Le déroulement de chaque animation : Un chat se retrouve dans une dimension (aquatique, imaginaire ou dans une chute), il parcourt la dimension et finit par se faire aspirer dans une boite pour revenir au Idle.
+
+Exemple d'animation : [Télécharger](medias/chatoyant.aep)
+
 - Modules multimédias : Les animations seront projetées par des projecteurs. Il y aura une lumières en dessous de chaque table pour démontrer quelle animation est active dans une boite. Il y aura le contrôle du son entre la vidéo de départ (Idle) et la dimension dans lequel le chat se retrouve.
 
 > Pour plus de détails [Voir colone Exemple de réalisation]:
