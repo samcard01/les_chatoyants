@@ -66,7 +66,8 @@ Dans ces temps difficiles, le projet des Chatoyants a pour but de rassembler à 
 - Vidéos animations 2D : Le projet est en noir et blanc. Le blanc est utilisé pour le chat et les contours en arrière-plan, le noir est utilisé pour l'arrière-plan. Le déroulement de chaque animation : Un chat se retrouve dans une dimension (aquatique, imaginaire ou dans une chute), il parcourt la dimension et finit par se faire aspirer dans une boite pour revenir au Idle.
 - Modules multimédias : Les animations seront projetées par des projecteurs. Il y aura une lumières en dessous de chaque table pour démontrer quelle animation est active dans une boite. Il y aura le contrôle du son entre la vidéo de départ (Idle) et la dimension dans lequel le chat se retrouve.
 
-Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
+> Pour plus de détails [Voir colone Exemple de réalisation]:
+[Contenu à intégrer](contenu_multimédia.xlsx)
 
 # Planification technique (devis technique)
 ## Schémas ou plans techniques
