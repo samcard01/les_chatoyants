@@ -117,11 +117,12 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 3 speaker Divoom Airbeat-10
     * carte de sons Berhinger U-phoria 8 in 8 out
     * 2 câbles XLR
-    * 1 
     * 1 cable 1/4 XLR femelle
+    * 2 direct input box
 
 * Vidéo
-    * 2 projecteurs standard, ratio 1.5, 3500 lumens
+    * 1 projecteurs standard, ratio 1.5, 3500 lumens
+    * 1 projecteurs ratio 0.3, 5000 lumens
     * 2 systèmes d'acrochage
     * 1 caméra A6000 (difusion)
     * 1 trépieds (diffusion)
@@ -129,6 +130,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 4 câbles HDMI
     * 2 extendeur HDMI
     * 1 câble micro HDMI vers HDMI 
+    * 1 extender réseau 
+    * 1 carte d'aquisition
+    * 2 display port vers HDMI
 
 * Lumière
     * 3 american DJ5PX HEX LED Par can
@@ -137,7 +141,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * Électricité
     * 2 cordon IEC (pour l'alimentation des haut-parleurs Genelec)
-    * 2 multiprise (son/lumière)
+    * 5 extension à 3 fiches (camera/extender reseau/boites)
+    * 1 carte capture pour l'ordinateur
 
 * Ordinateur
     * 1 ordinateur 
