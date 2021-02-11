@@ -99,39 +99,45 @@ Je veux essayer de commencer à apprendre des choses par rapport à la diffusion
 ---
 ## Semaine 2 (6 au 12 février)
 ### Résumé des réalisations effectuées
-
+- Recherche inspirations pour le visuel du choix en ligne
+- Rencontre comité de diffusion (Jeudi)
+- Ajout de tâches individuelles dans les Issues
+-	Modification du synopsis, de l’intention et des scénarios
+-	Modification du budget
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Modification préproduction](https://github.com/samcard01/les_chatoyants/blob/main/docs/web/medias/samuel_journal_03.JPG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+J'avais plus de tâches à faire cette semaine qui me prenaient plus de temps. Aussi, j'ai travaillé davantage alors j'ai pu moins attribué de temps au projet.
  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais me concentrer sur la partie thumbnail la semaine prochaine, puisque je serai moins occupé que cette semaine. Je vais m'attribuer des périodes de travail pré-déterminées.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+N/A
 
-
-### Défis pour la prochaine semaine
+### Défis pour la prochaine semaine 
+La semaine prochaine, je veux me concentrer davantage sur le thumbnail, donc chercher des inspirations et le réaliser. Aussi, j'aimerais commencer à faire le visuel du choix pour le en ligne.
 
 ---
 ## Semaine 3 (13 au 19 février)
