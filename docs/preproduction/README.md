@@ -188,7 +188,7 @@ Exemple d'animation : [Télécharger](medias/chatoyant.aep)
     * carte de sons Berhinger U-phoria 8 in 8 out
     * 2 câbles XLR
     * 1 cable 1/4 XLR femelle
-    * 2 direct input box
+    * 3 direct input box
 
 * Vidéo
     * 1 projecteurs standard, ratio 1.5, 3500 lumens
