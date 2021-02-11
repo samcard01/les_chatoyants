@@ -139,7 +139,7 @@ Exemple d'animation : [Télécharger](medias/chatoyant.aep)
 
 # Planification technique (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette sectio.  
+> Insérer plans, documents et schémas pertinents dans cette section.  
 
 ### Schéma de branchement
 
@@ -253,12 +253,8 @@ Exemple d'animation : [Télécharger](medias/chatoyant.aep)
     
 # Planification de la production (budget et étapes de réalisation)
 ## Budget prévisionnel
-Revenus = 0$
+[Budget fichier Excel](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1834377_cmontmorency_qc_ca/ETzvIb07UKJIrJ9MOXfEUKsBrpdCMpFUVTv_lzvq4-EjKQ?e=z6EZao)
 
-Dépenses: 
-- 3 nappes (environ 1$45 chacune)
-- Bois pour des tables (environ 3$ chacune)
-- Total = 20$
 
 
 ## Échéancier global
