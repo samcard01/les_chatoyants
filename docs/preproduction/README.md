@@ -28,27 +28,85 @@
 
 # Intention ou concept
 ## Synopsis
-Les Chatoyants est une projection d’animations sous le thème de chats s’affichant dans l’une des trois boîtes situées l'une à côté de l'autre et le long du mur du fond de la salle. Tout d'abord, une animation d'un chat projetée sur le mur, où sont situés les boîtes, va aléatoirement choisir parmi laquelle des trois boîtes le chat entrera. Par la suite, le spectateur sera incité à s'approcher de la boîte par des sons et lumières provenant de la boîte choisie. Aussi, les autres boîtes ne seront pas mises en évidence afin de guider le spectateur vers la boîte choisie. Dans la boîte choisie, une projection d'une animation d'un chat dans une certaine dimension, selon la boîte, sera projetée dans le fond de la dite boîte. Ce même processus se répète plusieurs fois entre les trois différentes boîtes, et ce, de façon aléatoire. Le spectateur sera guidé de la même façon (par la vidéo, la lumière et le son), mais présentera des vidéos d’animations différentes à l’intérieur des boîtes, selon la boîte choisie. Le chat ressort de la boîte lorsque la projection est terminée et choisit de nouveau une boîte dans laquelle il ira, et ce, en cycle. Le principe sera le même en ligne, cependant le spectateur pourra choisir parmi les trois personnes suivantes : Mathis, 9 ans, Jasmine, 19 ans ainsi que Jacques, 46 ans. Selon le point de vue choisi, le spectateur va pouvoir
-explorer les univers différents, et ce, dans un ordre différent. Selon la personne choisie, la hauteur de la caméra va varier.
+
+### Synopsis en présentiel
+Un spectateur entre dans la salle et découvre l’univers onirique de celle-ci. Ce dernier voit le chat projeté sur le mur se diriger vers la boite de son choix. De ce fait, la boite s’illumine et des sons s’en émanent. Le spectateur s’en approche et découvre la projection à l’intérieur de celle-ci. Quand la projection se termine, le chat ressort de la boite et revient sur le mur. Le processus se répète deux autres fois. 
+
+### Synopsis en ligne
+Le principe sera le même en ligne, cependant le spectateur pourra choisir parmi les trois personnes suivantes : Mathis, 9 ans, Jasmine, 19 ans ainsi que Jacques, 46 ans. Selon le point de vue choisi, le spectateur va pouvoir explorer les univers différents, et ce, dans un ordre différent. Selon la personne choisie, la hauteur de la caméra va varier.
 
 ## Intention de départ
-Dans ces temps difficiles, le projet des Chatoyants a pour but de rassembler à distance les gens par son aspect ludique et réconfortant, c'est-à-dire un monde imaginaire et onirique. La présence des chats permet de se distraire des différents éléments stressants de la vie réelle. Notre projet apporte une source de réconfort et un aspect rassurant dans ces temps difficiles par la présence chaleureuse des chats.
+Dans ces temps difficiles, le projet des Chatoyants a pour but de rassembler les gens à distance, et ce dans un monde imaginaire et onirique. Notre projet apporte une source de réconfort par la présence chaleureuse des chats.
 
 ## Tableau d'ambiance (*moodboard*)
-[Tableau d'ambiance visuels (images, couleurs)](medias/moodboard_projetSynthese.jpg)
+![Tableau d'ambiance visuels (images, couleurs)](medias/moodboard_projetSynthese.jpg)
 
 ## Scénario, scénarimage ou document audio/visuel
-[Scénarimage visuel pour vidéo d'animation d'Alexandra](medias/scenarimage_alex.PNG)
 
-[Scénarimage visuel pour vidéo d'animation de Catherine 1](medias/scenarimage_cath1.PNG)
+### Scénarimage Alexandra
+![Scénarimage visuel pour vidéo d'animation d'Alexandra](medias/scenarimage_alex.PNG)
 
-[Scénarimage visuel pour vidéo d'animation de Catherine 2](medias/scenarimage_cath2.PNG)
+### Scénarimage Catherine
+![Scénarimage visuel pour vidéo d'animation de Catherine 1](medias/scenarimage_cath1.PNG)
+![Scénarimage visuel pour vidéo d'animation de Catherine 2](medias/scenarimage_cath2.PNG)
 
-[Scénarimage visuel pour vidéo d'animation de Steaven](medias/scenarimage_steaven.PNG)
+### Scénarimage Steaven
+![Scénarimage visuel pour vidéo d'animation de Steaven](medias/scenarimage_steaven.PNG)
 
-[Scénario en présentiel](medias/chatoyants_presentiel.pdf)
+### Scénario en présentiel
+1. INT. SOIR. GRAND STUDIO DU COLLÈGE MONTMORENCY
 
-[Scénario en ligne](medias/chatoyants_en_ligne.pdf)
+SAMUEL entre dans la salle.
+
+La salle est relativement sombre. Des bruits de vents ressemblant à des bruits blancs se font entendre dans la salle et varient selon un intervalle de temps. Ces bruits jouent à un volume moyen.
+
+Samuel se sent apaisé par l’atmosphère calme et paisible de la salle. Il voit un chat animé projeté sur le mur situé au fond de la salle.
+
+Devant ce mur, il voit trois boîtes blanches situées l’une à côté de l’autre. Elles sont chacune sur une table recouverte d’une nappe blanche. Samuel voit de la lumière qui émane de chacune des boîtes. Cette lumière est douce et relativement faible. La lumière des boîtes éclaire la salle.
+
+Après quelques instants, le chat situé sur le mur entre dans la première boîte située à la gauche de Samuel.
+
+L’entrée du chat dans la boîte fait en sorte que la lumière provenant des deux autres boîtes s’éteint. Il ne reste plus que la lumière provenant de la première boîte qui s'émane. Samuel entend des bruits de bulles et d’éclaboussures d’eau provenant de la première boîte.
+
+Intrigué, ce dernier décide de s’approcher de la boîte en question.
+
+Lorsqu’il regarde à l’intérieur de cette dernière, il y voit un chat portant une sorte de scaphandre nager dans un aquarium. Le chat explore cet univers aquatique jusqu’à ce qu’il se fasse aspirer par une boîte située dans le fond de l’aquarium.
+
+Quelques instants plus tard, le chat qui était entré dans la boîte en ressort et se dirige de nouveau sur le mur sur lequel il était au départ.
+
+Samuel voit que les lumières des boîtes se rallument de nouveau et que l’univers venteux et abstrait de la pièce se remet de nouveau en marche.
+
+Samuel se sent apaisé et à la fois intrigué par ce qu’il s’est passé dans la boîte.
+
+Le chat sur le mur choisit une boîte de nouveau et le processus de l’expérience recommence de nouveau, et ce, deux autres fois.
+
+
+### Scénario en ligne
+1. INT. SOIR. GRAND STUDIO DU COLLÈGE MONTMORENCY (POV)
+
+Le spectateur arrive sur la page du projet, Les Chatoyants. Pour vivre l'expérience, celui-ci doit choisir parmi les trois personnes suivantes : Mathis, 9 ans, Jasmine, 19 ans ainsi que Jacques, 46 ans.
+
+Selon le point de vue choisi, le spectateur va pouvoir explorer les univers différents, et ce, dans un ordre différent. Selon la personne choisie, la hauteur de la caméra va varier.
+
+Mathis/Jasmine/Jacques entre dans la salle. La salle est relativement sombre. Des bruits de vents ressemblant à des bruits blancs se font entendre dans la salle et varient selon un intervalle de temps. Ces bruits jouent à un volume moyen.
+
+Mathis/Jasmine/Jacques se sent apaisé(e) par l’atmosphère calme et paisible de la salle. Mathis/Jasmine/Jacques voit un chat animé projeté sur le mur situé au fond de la salle. Devant ce mur, Mathis/Jasmine/Jacques voit trois boîtes blanches situées l’une à côté de l’autre. Elles sont chacune sur une table recouverte d’une nappe blanche. Mathis/Jasmine/Jacques voit de la lumière qui émane de chacune des boîtes. Cette lumière est douce et relativement faible. La lumière des boîtes éclaire la salle.
+
+Après quelques instants, le chat situé sur le mur entre dans l'une des boîtes.
+
+L’entrée du chat dans la boîte fait en sorte que la lumière provenant des deux autres boîtes s’éteint. Il ne reste plus que la lumière provenant de l'une des boîtes qui s'émane. Mathis/Jasmine/Jacques entend des bruits variant selon l'univers exploré provenant de la boîte.
+
+Intrigué(e), Mathis/Jasmine/Jacques décide de s’approcher de la boîte en question.
+
+Lorsque Mathis/Jasmine/Jacques regarde à l’intérieur de cette dernière, Mathis/Jasmine/Jacques y voit un chat explorant l'univers de la boîte.
+
+Quelques instants plus tard, le chat qui était entré dans la boîte en ressort et se dirige de nouveau sur le mur sur lequel il était au départ.
+
+Mathis/Jasmine/Jacques voit que les lumières des boîtes se rallument de nouveau et que l’univers venteux et abstrait de la pièce se remet de nouveau en marche.
+
+Mathis/Jasmine/Jacques se sent apaisé(e) et à la fois intrigué(e) par ce qu’il s’est passé dans la boîte.
+
+Le chat sur le mur choisit une boîte de nouveau et le processus de l’expérience recommence de nouveau, et ce, deux autres fois.
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
@@ -81,7 +139,7 @@ Exemple d'animation : [Télécharger](medias/chatoyant.aep)
 
 # Planification technique (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette sectio.  
+> Insérer plans, documents et schémas pertinents dans cette section.  
 
 ### Schéma de branchement
 
@@ -129,11 +187,12 @@ Exemple d'animation : [Télécharger](medias/chatoyant.aep)
     * 3 speaker Divoom Airbeat-10
     * carte de sons Berhinger U-phoria 8 in 8 out
     * 2 câbles XLR
-    * 1 
     * 1 cable 1/4 XLR femelle
+    * 3 direct input box
 
 * Vidéo
-    * 2 projecteurs standard, ratio 1.5, 3500 lumens
+    * 1 projecteurs standard, ratio 1.5, 3500 lumens
+    * 1 projecteurs ratio 0.3, 5000 lumens
     * 2 systèmes d'acrochage
     * 1 caméra A6000 (difusion)
     * 1 trépieds (diffusion)
@@ -141,6 +200,9 @@ Exemple d'animation : [Télécharger](medias/chatoyant.aep)
     * 4 câbles HDMI
     * 2 extendeur HDMI
     * 1 câble micro HDMI vers HDMI 
+    * 1 extender réseau 
+    * 1 carte d'aquisition
+    * 2 display port vers HDMI
 
 * Lumière
     * 3 american DJ5PX HEX LED Par can
@@ -149,7 +211,8 @@ Exemple d'animation : [Télécharger](medias/chatoyant.aep)
 
 * Électricité
     * 2 cordon IEC (pour l'alimentation des haut-parleurs Genelec)
-    * 2 multiprise (son/lumière)
+    * 5 extension à 3 fiches (camera/extender reseau/boites)
+    * 1 carte capture pour l'ordinateur
 
 * Ordinateur
     * 1 ordinateur 
@@ -195,12 +258,8 @@ Exemple d'animation : [Télécharger](medias/chatoyant.aep)
     
 # Planification de la production (budget et étapes de réalisation)
 ## Budget prévisionnel
-Revenus = 0$
+[Budget fichier Excel](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1834377_cmontmorency_qc_ca/ETzvIb07UKJIrJ9MOXfEUKsBrpdCMpFUVTv_lzvq4-EjKQ?e=z6EZao)
 
-Dépenses: 
-- 3 nappes (environ 1$45 chacune)
-- Bois pour des tables (environ 3$ chacune)
-- Total = 20$
 
 
 ## Échéancier global
@@ -291,6 +350,7 @@ Hebdomadaire
 - **Mardi 13h (environ 2h)** : Rencontre d'équipe
 - **Mardi 15h (environ 1h)** : Rencontre d'équipe avec professeur
 - **Mercredi 11h (environ 1h)** : Rencontre de mise à jour d'équipe (Journal Web, suivis, mise à jour de l'échéancier, partage des tâches et autres)
+- **Jeudi 16h (Environ 15min)** : Rencontre de mise à jour d'équipe (Récapitulatif comité de diffusion et comité technique)
 - **Vendredi 9h50 (environ 2h)** : Rencontre générale de classe
 
 Autre: 
