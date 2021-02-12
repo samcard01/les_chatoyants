@@ -91,40 +91,42 @@ Aucunes informations.
 ---
 ## Semaine 2 (6 au 12 février)
 ### Résumé des réalisations effectuées
-
+- Finir ma partie de la préproduction
+- Continuer les animations
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Ma section de la préproduction final](medias/semaine_2_steaven.JPG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ - Je m'étais mis comme réalisation d'avancer mes deux animations, voir les terminer. Par contre, j'en ai seulement avancé une dont je n'ai pas encore terminé.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- Du fait qu'il n'aille plus la préproduction à faire pour la prochaine semaine, je vais pouvoir me concentrer d'avantage sur mes animations.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+- Le délai que je m'étais fixé pour faire mes animations est rallongé d'une semaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- Je vais faire mes animations et les terminer.
 
 ### Défis pour la prochaine semaine
-
+- Mon plus grand défi pour la semaine prochaine est d'avoir terminé mes deux animations.
+- Commencer à monter notre projet au grand studio.
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
