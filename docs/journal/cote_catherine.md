@@ -99,28 +99,31 @@ Pour la liste de matériel et le schéma de branchement j'ai dejà pris rendez-v
 ---
 ## Semaine 2 (6 au 12 février)
 ### Résumé des réalisations effectuées
-
+- compléter et remis la préproduction
+- compléter et envoyer la liste de matériel officiel pour le projet
+- terminer mes illustration pour mes animations
+- terminer mes animations pour mon projet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Voici une capture d'écran d'une de met scène d'animation que j'ai fais cette semaine. Je suis bien contente du résultat que cela a donné.](medias/animation_catherine.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai réussi à completer l'ensemble des défis pour cette semaine et je suis même aller plus loin en ayant terminé mes animations.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -132,7 +135,8 @@ Pour la liste de matériel et le schéma de branchement j'ai dejà pris rendez-v
 
 
 ### Défis pour la prochaine semaine
-
+- aller en présentiel pour effectuer des tests et commencer le branchement.
+- faire le montage vidéo et sonore de mes animations
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
