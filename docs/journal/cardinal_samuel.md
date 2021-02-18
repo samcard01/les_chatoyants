@@ -22,7 +22,7 @@
 - Séparation des tâches entre les coéquipiers (Équipe)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Moi-même devant mon ordinateur qui tape sur le clavier de l'ordinateur](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/samuel_journal_01.jpg)
+![Moi-même devant mon ordinateur qui tape sur le clavier de l'ordinateur](medias/samuel_journal_01.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
@@ -65,7 +65,7 @@ La semaine prochaine, je devrai m'assurer avec mon équipe de prendre en compte 
 - Rédaction de mon journal hebdomadaire
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Rédaction des deux scénarios](https://github.com/samcard01/les_chatoyants/blob/main/images/preuves/cardinal_samuel_realisation_4fevrier.JPG)
+![Rédaction des deux scénarios](medias/samuel_journal_02.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -106,7 +106,7 @@ Je veux essayer de commencer à apprendre des choses par rapport à la diffusion
 -	Modification du budget
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Modification préproduction](https://github.com/samcard01/les_chatoyants/blob/main/docs/web/medias/samuel_journal_03.JPG)
+![Modification préproduction](medias/samuel_journal_03.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -142,39 +142,46 @@ La semaine prochaine, je veux me concentrer davantage sur le thumbnail, donc che
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
-
+- Rencontre hebdomadaire du comité de diffusion
+- Recherche d'inspirations pour l'affiche
+- Réalisation de l'affiche
+- Réalisation du visuel du choix
+- Recherche de sons additionnels
+- Modification du fichier Max de son
+- Travail d'équipe au grand studio
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Affiche page Les Chatoyants](medias/samuel_journal_04.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai fait tout ce que j'avais à accomplir, car je me suis alloué des périodes spécifiques planifiées au début de la semaine. Cela m'a permis de suivre un horaire et non de simplement faire les choses à faire quand je le pensais nécessaire. Aussi, j'avais plus de temps cette semaine ce qui m'a permis de faire tout cela.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+Pour la semaine prochaine, j'aimerais réaliser le thumbnail et tester l'environnement sonore dans le grand studio. Aussi, j'aimerais m'assurer que les modifications nécessaires, s'il y en a, soient faites au patcher de son Max. 
 
 ---
 ## Semaine 4 (20 au 26 février)
