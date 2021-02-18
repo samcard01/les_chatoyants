@@ -140,28 +140,31 @@ Pour la liste de matériel et le schéma de branchement j'ai dejà pris rendez-v
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
-
+- installation du projecteur pour le mur
+- test du son
+- construction des 3 tables pour le projet
+- tester la lumière lorsque positionné sous la nape.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
-
+![Voici une photo qui représente le test effectué de la lumière et la nappe](medias/catherine_journal_04-2.jpg)
+![Voici une photo qui représentait bien le soulageemnt de revoir certain visage](medias/catherine_journal_04-1.jpg)
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je suis bien contente de l'avancement qui s'est fait au studio. De plus, je ne pensais pas avoir les trois table pour mardi prochain alors je suis bien contente de cette avancement. Cependant, j'ai finalement préféré mettre mes animations de côté cette semaine et de surout me concentrer sur l'installation physique.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais tranquillement commencer à faire le montage de mes animation et intégrer le son lorsque j'aurais fini le prototype.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -173,7 +176,10 @@ Pour la liste de matériel et le schéma de branchement j'ai dejà pris rendez-v
 
 
 ### Défis pour la prochaine semaine
-
+- Faire fonctionner les lumière pour qu'elle puisse s'ouvrir et s'éteindre via Max.
+- Afficher une vidéoe dans l'une des trois boite. 
+- installer les tables avec les boites et nappe.
+- Avancer mes animations.
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
