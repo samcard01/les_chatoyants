@@ -148,7 +148,7 @@ Pour la liste de matériel et le schéma de branchement j'ai dejà pris rendez-v
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 ![Voici une photo qui représente le test effectué de la lumière et la nappe](medias/catherine_journal_04-2.jpg)
-![Voici une photo qui représentait bien le soulageemnt de revoir certain visage](medias/catherine_journal_04-1.jpg)
+
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
