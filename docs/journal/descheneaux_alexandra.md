@@ -62,65 +62,70 @@
 ---
 ## Semaine 2 (6 au 12 février)
 ### Résumé des réalisations effectuées
-
+- Essayer de me connecter au VPN
+- Comité Diffusion
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+ * Image de moi frustré devant mon ordinateur*
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
 - [ ] Peu
-- [ ] Pas du tout
+- [x] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je n'ai pas été capable de me connecter, même avec de l'aide.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Travailler plus et continuer d'essayer avec l'aide de Cédrick.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
 - [ ] Un peu
-- [ ] Pas tout à fait
+- [x] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+J'étais supposé avoir commencer mon animation.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Travailler plus.
 
 ### Défis pour la prochaine semaine
-
+Faire mon animation et commencer notre installation au collège.
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
-
+- Installation d'un projecteur
+- Plusieurs tests en personne au studio
+- Me connecter au VPN
+- Peinturer une boite sur les trois
+- Faire des faux fonds pour les boites
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![En processus de peinture](medias/peinture.jpg)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ - Je pensais avoir plus de temps pour mes animations, mais j'ai du prioriser d'autre chose.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- Prendre au moins une journée dédié à mon animation.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -132,7 +137,7 @@
 
 
 ### Défis pour la prochaine semaine
-
+- Faire fonctionner les différentes parties de notre installation et finir de peinturer les boites.
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
