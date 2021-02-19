@@ -130,40 +130,44 @@ Aucunes informations.
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
-
+- Acheter les matériaux nécessaires pour le projet
+- Commencer à monter le projet au grand-studio
+- Animation
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Montage de notre projet dans le grand-studio](medias/semaine_3_steaven.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ - Nous avons assez bien avancé le montage de notre projet dans le grand-studio. Le matériel est déjà tout acheté et les tables sont fabriqués. Je n'ai pas énormément touché aux animations par le fait que nous étions assez chargés cette semaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- Je vais avancé les animations en fin de semaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+- Par la grande charge du montage du projet au collège, les animations ont peu avancés cette semaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- Je vais avancer les animations cette fin de semaine.
 
 ### Défis pour la prochaine semaine
-
+- S'assurer que tout fonctionne dans notre projet pour mardi
+- Avancer les animations
+- Tester notre projet
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
