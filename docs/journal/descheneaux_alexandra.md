@@ -141,21 +141,25 @@ Faire mon animation et commencer notre installation au collège.
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
-
+- Installation et branchement des 2 projecteurs
+- Ajustement des boites que j'ai peinturées
+- Préparation et présentation du prototype
+- Faire mon animation
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Installation de mes boites](medias/25fevAlex.jpg)
+![Animation terminée, mais pas nécessairement finale](medias/25fevAlexAnimation.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ - Notre prototype d'installation était prêt à temps et j'ai enfin complété mon animation.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -163,18 +167,18 @@ Faire mon animation et commencer notre installation au collège.
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+- Ils nous manquaient du matériel pour l'aspect sonore de notre installation.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- Attendre d'avoir le matériel.
 
 ### Défis pour la prochaine semaine
-
+-Perfectionner mon animation et nous préparer au retour au studio.
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
