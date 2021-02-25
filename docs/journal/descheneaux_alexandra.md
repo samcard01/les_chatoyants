@@ -148,7 +148,7 @@ Faire mon animation et commencer notre installation au collège.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Installation de mes boites](medias/25fevAlex.jpg)
-![Animation terminée, mais pas nécessairement finale](medias/25fevAlexAnimation.jpg)
+![Animation terminée, mais pas nécessairement finale](medias/25fevAlexAnimation.JPG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
