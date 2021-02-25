@@ -186,39 +186,41 @@ Pour la semaine prochaine, j'aimerais réaliser le thumbnail et tester l'environ
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
-
+- Recherche d'inspirations pour le thumbnail
+- Création du thumbnail
+- Rencontre hebdomadaire du comité de diffusion
+- Travail d'équipe au grand studio
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Thumbnail Les Chatoyants](medias/samuel_journal_05.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
-
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Comme d'habitude, je me suis instauré des périodes de travail ce qui m'a permis de faire toutes mes choses dans les temps. Cela m'a permis d'avoir un contrôle sur l'avancement de mes tâches.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
-
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+La semaine prochaine, je veux continuer avec mon équipe l'avancement du projet au grand studio, notamment, le branchement des hauts-parleurs sous les tables et s'assurer qu'ils fonctionnent.
 
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
