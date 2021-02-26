@@ -183,28 +183,35 @@ Je vais tranquillement commencer à faire le montage de mes animation et intégr
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
+- mapping vidéo
+- intallation des 3 tables
+- intallation des 3 lumière
+- programmation des lumières
+- test de son
+- assemblage des animations
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![Voici une photo qui représente le fonctionnement du mapping et de la programmartion des lumières](medias/journal_semaine-22.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ L'ensemble des tâches a été réalisé et même plus. Nous avons réussi le mapping pour les 3 boites et les lumières fonctionnent encore mieux que je l'imaginais. J'ai également fait pas mal de ménage dans notre patcher principal ce qui le rend beaucoup plus lisible.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -216,7 +223,9 @@ Je vais tranquillement commencer à faire le montage de mes animation et intégr
 
 
 ### Défis pour la prochaine semaine
-
+- terminer les animations
+- recevoir notre matériel maquant et l'installer
+- paufiner l'apparence de notre projet en physique.
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
