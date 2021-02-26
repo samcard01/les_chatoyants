@@ -171,40 +171,45 @@ Aucunes informations.
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
-
+- Monter le petit projecteur en haut
+- Placer les tables
+- Aider à placer les lumières
+- Aider pour le mapping vidéo
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Prototype fonctionnel de notre projet](medias/semaine_4_steaven.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ - Nous avons réussi à accomplir notre plus grand objectif étant de terminer le prototype pour mardi.
+ - Nous avons pas eu de difficulté pour la lumière.
+ - Le mapping vidéo a très bien fonctionner également.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- Aucunes informations
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+- Aucunes informations
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- Aucunes informations
 
 ### Défis pour la prochaine semaine
-
+- Continuer les animations
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
