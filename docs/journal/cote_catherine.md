@@ -229,28 +229,29 @@ Je vais tranquillement commencer à faire le montage de mes animation et intégr
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
-
-
+- Finaliser et exporter mon animation avec le son
+- Placer les nappes de façon plus esthétique
+- Commencer l'inventaire de l'équipement
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Voici une photo qui représente les tables en physique](medias/catherine_27-5.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai fais tout ce que je m'avais fixer et je suis très contente d'avoir enfin terminer mon animation.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -262,7 +263,9 @@ Je vais tranquillement commencer à faire le montage de mes animation et intégr
 
 
 ### Défis pour la prochaine semaine
-
+- Installer de façon final les speaker
+- Rajouter les élément maquant au gros projecteur
+- Tourner les vidéos même si c'est seulement de façon broullion
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
