@@ -225,39 +225,41 @@ La semaine prochaine, je veux continuer avec mon équipe l'avancement du projet 
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
-
+- Remise des médias pour le site de TIM
+- Modification de la maquette de notre page d'expérience
+- Réalisation de la page web en formats tablette et pc
+- Travail d'équipe au grand studio
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Site Chatoyants](medias/samuel_journal_06.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
-
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'avais moins de temps cette semaine, puisque j'ai aidé ma soeur pour son déménagement et j'étais plus fatigué qu'à l'habitude.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais réaliser la partie mobile de notre site web, après la rencontre habituelle du vendredi.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
-
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+La semaine prochaine, je veux filmer nos vidéos et les monter pour la partie en ligne de notre projet. Je veux les mettre en ligne tout comme les fichiers pour la page web. Aussi, je veux finaliser avec mon équipe notre installation au grand studio.
 
 ---
 ## Semaine 5 (6 au 12 mars)
