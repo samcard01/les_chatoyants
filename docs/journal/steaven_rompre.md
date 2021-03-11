@@ -213,40 +213,41 @@ Aucunes informations.
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
-
+- Faire les animations
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Prototype fonctionnel de notre projet](medias/semaine_05_steaven.JPG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ - J'ai bien avancé mon animation cette semaine. J'ai changé un peu la perspective afin de donner de la vie à mon animation. J'ai recommencé une partie de mon animation également.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- Aucunes informations
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+- J'avais prévu terminer une animation sur deux. J'ai bientôt terminé mon animation personnelle.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- Je vais terminer mon animation pour la semaine prochaine.
 
 ### Défis pour la prochaine semaine
-
+- Terminer mon animation personnelle pour la semaine prochaine
+- Modifier l'animation de départ.
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
