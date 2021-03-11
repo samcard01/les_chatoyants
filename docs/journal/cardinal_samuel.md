@@ -264,12 +264,12 @@ La semaine prochaine, je veux filmer nos vidéos et les monter pour la partie en
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
--Installation définitive des hauts-parleurs au sol
--Test du son pour l'installation physique et pour la diffusion
--Démêler les fils 
--Arranger l'apparence des fils
--Changement de l'emplacement de l'ordinateur
--Rencontre hebdomadaire du comité de diffusion
+- Installation définitive des hauts-parleurs au sol
+- Test du son pour l'installation physique et pour la diffusion
+- Démêler les fils 
+- Arranger l'apparence des fils
+- Changement de l'emplacement de l'ordinateur
+- Rencontre hebdomadaire du comité de diffusion
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Apparence finale installation](medias/samuel_journal_07.jpg)
