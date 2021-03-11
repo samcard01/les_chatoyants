@@ -63,7 +63,7 @@ Compléter la préproduction
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![Voici le schéma de branchement pour notre projet. celui-ci n'est pas compléter mais je suis tout de même très fiere de ce qui a été fait pour l'intant. J'ai fais beaucoup de réflection et de dessin brouillon avant d'en arriver à cette version-ci](medias/schema_de_branchement.png)
+![Voici le schéma de branchement pour notre projet. celui-ci n'est pas compléter mais je suis tout de même très fiere de ce qui a été fait pour l'intant. J'ai fais beaucoup de réflection et de dessin brouillon avant d'en arriver à cette version-ci](medias/catherine_semaine_1.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -106,7 +106,7 @@ Pour la liste de matériel et le schéma de branchement j'ai dejà pris rendez-v
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![Voici une capture d'écran d'une de met scène d'animation que j'ai fais cette semaine. Je suis bien contente du résultat que cela a donné.](medias/animation_catherine.png)
+![Voici une capture d'écran d'une de met scène d'animation que j'ai fais cette semaine. Je suis bien contente du résultat que cela a donné.](medias/catherine_semaine_2.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -147,7 +147,7 @@ Pour la liste de matériel et le schéma de branchement j'ai dejà pris rendez-v
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![Voici une photo qui représente le test effectué de la lumière et la nappe](medias/catherine_journal_04-2.jpg)
+![Voici une photo qui représente le test effectué de la lumière et la nappe](medias/catherine_semaine_3.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -193,7 +193,7 @@ Je vais tranquillement commencer à faire le montage de mes animation et intégr
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![Voici une photo qui représente le fonctionnement du mapping et de la programmartion des lumières](medias/journal_semaine-22.jpg)
+![Voici une photo qui représente le fonctionnement du mapping et de la programmartion des lumières](medias/catherine_semaine_4.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -234,7 +234,7 @@ Je vais tranquillement commencer à faire le montage de mes animation et intégr
 - Commencer l'inventaire de l'équipement
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![Voici une photo qui représente les tables en physique](medias/catherine_27-5.jpg)
+![Voici une photo qui représente les tables en physique](medias/catherine_semaine_5.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -264,33 +264,39 @@ Je vais tranquillement commencer à faire le montage de mes animation et intégr
 
 ### Défis pour la prochaine semaine
 - Installer de façon final les speaker
-- Rajouter les élément maquant au gros projecteur
+- Rajouter les éléments manquant au gros projecteur
 - Tourner les vidéos même si c'est seulement de façon broullion
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
-
+- Installation final des speakers
+- Test final du son en physique ET pour la diffusion
+- Installation des éléments manquants au gros projecteur
+- Test de projection au mur
+- Correction de la programmation pour rendre plus fluide la sélection entre les 3 boites et la vidéo d'introduction au mur.
+- Finaliser l'emplacement des tables/boites/nappes
+- Correction dans Max pour que le mapping puisse être installer plus rapidement
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Voici une photo de moi qui travaille sur le max](medias/catherine_semaine_6.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je crois que nous avons très bien travailler cette semaine. Personnellement j'ai énormément travailler sur la programmation dans max. Je suis très heureuse d'avoir finaliser l'installation du son ainsi que le test de celui-ci pour la diffusion. J'ai également rendu notre sélection de vidéos plus fluide avec celle de l'introduction. Cependant, nous n'avons pas eu le temps de filmer nos 3 vidéos pour la diffusion en ligne. Nous avons plutôt finaliser tout les aspects de notre installation pour qu'elle soit terminer et compléteemnt fonctionnel lors du tournage. Nous allons pouvoir bien filmer nos vidéos lundi sans faute.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous avons préféré laisser notre fin de semaine à la finalisation de notre projet et reporter le tournage à lundi. Ainsi, notre installation sera complétement installer, fonctionnel et beaucoup plus en ordre qu'elle l'aurait été.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -302,7 +308,9 @@ Je vais tranquillement commencer à faire le montage de mes animation et intégr
 
 
 ### Défis pour la prochaine semaine
-
+- filmer les vidéos
+- intégrer les vidéos au site web
+- tester la diffusion en ligne
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
