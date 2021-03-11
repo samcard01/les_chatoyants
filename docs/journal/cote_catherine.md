@@ -19,7 +19,7 @@
 - commencer la preproduction (planification technique)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/fonctionnementMaxArduino.png)
+![ici est une description de l'image](medias/catherine_semaine_0.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
