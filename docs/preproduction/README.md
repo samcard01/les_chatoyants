@@ -185,10 +185,10 @@ Exemple d'animation : [Télécharger](medias/chatoyant.aep)
 * Audio
     * 2 haut-parleurs Genelec 8010 8"
     * 3 speaker Divoom Airbeat-10
-    * carte de sons Berhinger U-phoria 8 in 8 out
-    * 2 câbles XLR
+    * 3 carte de sons 2 in 2 out
+    * 5 câbles XLR
     * 1 cable 1/4 XLR femelle
-    * 3 direct input box
+    
 
 * Vidéo
     * 1 projecteurs standard, ratio 1.5, 3500 lumens
@@ -202,7 +202,6 @@ Exemple d'animation : [Télécharger](medias/chatoyant.aep)
     * 1 câble micro HDMI vers HDMI 
     * 1 extender réseau 
     * 1 carte d'aquisition
-    * 2 display port vers HDMI
 
 * Lumière
     * 3 american DJ5PX HEX LED Par can
