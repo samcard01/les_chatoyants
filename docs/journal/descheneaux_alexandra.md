@@ -185,21 +185,26 @@ Faire mon animation et commencer notre installation au collège.
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
-
+- Installation du receiver/sender du gros projecteur
+- Installation des haut-parleurs au plafond
+- Arrangement des nappes sur les tables
+- j'ai terminé mon animation
+- Finalisation de l'installation
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Installation des haut-parleurs au plafond](medias/12marsInstallation.jpg)
+![Animation terminée et finale](medias/12marsAnimation.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je voulais absolument terminer mon animation et c'est ce que j'ai réussi à faire.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -207,18 +212,19 @@ Faire mon animation et commencer notre installation au collège.
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+On voulait filmer cette semaine, mais finalement on va attendre à lundi prochain.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+On va filmer lundi.
 
 ### Défis pour la prochaine semaine
-
+- Filmer notre installation et faire le montage.
+- Finir notre installation au Collège.
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
