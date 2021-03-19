@@ -228,28 +228,30 @@ On va filmer lundi.
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
-
+- Filmer les différents vidéos
+- Tout finalisé
+- Générale
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Soirée de la générale](medias/generaleAlex.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ - Tout est fonctionnel pour la semaine prochaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -261,3 +263,4 @@ On va filmer lundi.
 
 
 ### Défis pour la prochaine semaine
+- Se préparer pour la soirée officielle.
