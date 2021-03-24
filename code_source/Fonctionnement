@@ -1,15 +1,25 @@
-# Fonctionnement du Patcher Max
+ Fonctionnement du Patcher Max
 
-## Étapes-1 positionner les fenêtres
+Étapes-1 positionner les fenêtres
+
 Tout d'abord, il faut positionner le "jit.world" à l'endroit prédéfini qu'on désire. Quelque soit la valeur, il suffit de la rentré dans le message "window position",
 puis ensuite cliquer sur ce mesage pour que la fenêtre se positionne au bon endroit. Ensuite, grâce à l'objet "fullscreen" il vous 
 suffit d'appuyer sur le X ou encore appuyer sur le touche "f" pour faire plein écran.
-## Étapes-2 positionner les vidéos des 3 boites
+
+
+Étapes-2 positionner les vidéos des 3 boites
+
 Grace à l'objet "conerpin" il nous est possible de faire le mapping directement dans Max. Il suffit de changer le valeur "conermode" en absolute, cocher les trois cases et
 appuyer sur les 4 messages qui donne la valeur prédéfini à chacun des coins des vidéos. Nous répétons cette étapes pour les 3 vidéos qui se trouve dans les boites.
-## Étapes-3 Contrôle des lumières
+
+
+Étapes-3 Contrôle des lumières
+
 Nous aurons maintenant besoin du logiciel Q light controller+ pour lier les lumières à max. Il suffit d'ouvir le document "control_lumiere" pour d'appuyer sur le
 play situer en haut a droite de l'écran. Automatiquement les lumières seront lier du physique à Q light à max. 
-## Étapes- Partir le projet
+
+
+Étapes-4 Partir le projet
+
 Maintenant il ne reste plus qu'a cliquer sur le message "starwindow" pour allumer l'audio de tout le patcher. Puis ensuite, on appuuit sur le gros bang nommer "Play".
 Vous pouvex maintenent apprécier le projet "les chatoyants"!
