@@ -147,7 +147,7 @@ Exemple d'animation : [Télécharger](medias/chatoyant.aep)
 
 ### Schéma de fonctionnement
 
-![exemple de schema](medias/schema_foonctionnement_final.png)
+![exemple de schema](medias/schema_fonctionnement_final.png)
 
 ### Plantation 
 
