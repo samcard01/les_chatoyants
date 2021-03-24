@@ -2,17 +2,48 @@
 <html lang="fr">
 
 <head>
-	<title>(Titre du projet d'étudiant)</title>
+	<title>Les Chatoyants</title>
 	<meta name="description" content="(Description du projet x)">
-	<link rel="stylesheet" type="text/css" href="">
+	<link rel="stylesheet" type="text/css" href="chatoyants.css">
+	<link rel="stylesheet" href="grt-youtube-popup.css">
 </head>
 
 <body>
-	<header></header>
-	<main>
-		Votre expérience ici.
-	</main>
-	<footer>
-	</footer>
+	<div class="titre"><img class="texte_titre" src="titre_page.png" alt="" srcset=""></div>
+
+
+    <div class="boites">
+        <div class="boite">
+            <a href="#" class="youtube-link" youtubeid="zuLyv1fUb1U"><img class="mathis" src="mathis.png" alt="" srcset=""></a>
+        </div>
+        <div class="boite">
+            <a href="#" class="youtube-link" youtubeid="NU6sM1wfOa0"><img class="jasmine" src="jasmine.png" alt="" srcset=""></a>
+        </div>
+        <div class="boite">
+            <a href="#" class="youtube-link" youtubeid="5tSGVn6BupQ"><img class="jacques" src="jacques.png" alt="" srcset=""></a>
+        </div>
+    </div>
+
+
+    <div class="texte_explicatif_ligne">Découvrez les différents univers des chats selon la perspective de l'une des trois personnes suivantes. Veuillez choisir parmi l'une des boîtes ci-dessous</div>
+    <div class="savoir_plus"><span class="youtube-link" youtubeid="_WsAs8iRz7Y">L'expérience en direct, c'est ici que ça se passe!</span></div>
+
+    <!-- Jquery -->
+
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+    <!-- GRT Youtube Popup -->
+
+    <script src="grt-youtube-popup.js">
+    </script>
+
+    <script>
+        $(".youtube-link").grtyoutube({
+            autoPlay: false
+        });
+        $(".youtube-link").grtyoutube({
+            theme: "dark"
+        });
+    </script>
 </body>
 </html>
