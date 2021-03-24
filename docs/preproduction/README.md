@@ -147,7 +147,7 @@ Exemple d'animation : [Télécharger](medias/chatoyant.aep)
 
 ### Schéma de fonctionnement
 
-![exemple de schema](medias/schema_foonctionnement.png)
+![exemple de schema](medias/schema_foonctionnement_final.png)
 
 ### Plantation 
 
@@ -168,7 +168,12 @@ Exemple d'animation : [Télécharger](medias/chatoyant.aep)
 * Boite [choix B]
     * 30 x 30 x 30 cm ~
     * Quantité [3]
-* nape
+* nape blanche
+    * 180 x 290 cm
+    * Couleur blanc
+    * Quantité [3]
+    * Important, doivent permettre une certaine circulation d'air.
+* nape dentelle
     * 180 x 290 cm
     * Couleur blanc
     * Quantité [3]
@@ -188,6 +193,7 @@ Exemple d'animation : [Télécharger](medias/chatoyant.aep)
     * 3 carte de sons 2 in 2 out
     * 5 câbles XLR
     * 1 cable 1/4 XLR femelle
+    * 2 systèmes d'accroche
     
 
 * Vidéo
@@ -206,11 +212,11 @@ Exemple d'animation : [Télécharger](medias/chatoyant.aep)
 * Lumière
     * 3 american DJ5PX HEX LED Par can
     * 3 fils XLR 3 conducteurs de 20'
-    * Transformateur DMX USB vers XLR
+    * 1 Transformateur DMX USB vers XLR
 
 * Électricité
     * 2 cordon IEC (pour l'alimentation des haut-parleurs Genelec)
-    * 5 extension à 3 fiches (camera/extender reseau/boites)
+    * 5 extension à 3 fiches (carte son/ordinateur/boites)
     * 1 carte capture pour l'ordinateur
 
 * Ordinateur
@@ -226,7 +232,8 @@ Exemple d'animation : [Télécharger](medias/chatoyant.aep)
 * [after effect 2021](https://www.adobe.com/products/aftereffects.html)
 * [premiere 2021](https://www.adobe.com/products/premiere.html)
 * [storyboarder 1.0.0](https://wonderunit.com/storyboarder/)
-* [OBS - Open Broadcaster Software 26.1](https://obsproject.com/fr/download)
+* [Q light controler](https://www.qlcplus.org/)
+* [Q light controler](https://www.qlcplus.org/)
 
 
 
