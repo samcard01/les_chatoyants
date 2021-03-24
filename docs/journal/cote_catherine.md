@@ -314,28 +314,33 @@ Nous avons préféré laisser notre fin de semaine à la finalisation de notre p
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
-
+- filmer les vidéos qui se retrouveront sur le site web
+- intégrer les vidéos au site web
+- tester la diffusion en ligne
+- Général
+- correction de la mise en veille
+- correction de la programmation des lumières
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Voici une photo de nous en train de réaliser notre "faux" live pour le site web](medias/catherine_semaine_7.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Notre site web est terminé et nous sommes très fière des vidéos que nous avons réalisé. De plus, j'ai pu en profiter pour corruger quelques bogue dont la mise en veille et les lumières qui ne restait allumée.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -347,3 +352,6 @@ Nous avons préféré laisser notre fin de semaine à la finalisation de notre p
 
 
 ### Défis pour la prochaine semaine
+- Mettre a jour Devis thecnique
+- Présenter enfin notre projet:)!
+- Démonter ce même projet
