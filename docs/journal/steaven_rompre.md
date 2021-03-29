@@ -251,73 +251,77 @@ Aucunes informations.
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
-
+- Faire les animations
+- Finir les dernières modifications dans le studio de notre projet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Finition scène de plage animation](medias/semaine_06_steaven.JPG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ - J'ai finalisé une bonne partie de mon animation principale. Il va rester que la dernière partie!
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- Aucunes informations.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+- Aucunes informations.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- Aucunes informations.
 
 ### Défis pour la prochaine semaine
-
+- Terminer les réglages du projet au studio et terminer la dernière partie de mon animation.
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
-
+- Terminer mon animation
+- Terminer les réglages du projet au studio
+- Mise en marche du projet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Finition de mon animation](medias/semaine_7_steaven.JPG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ - J'ai terminé mon animation en entier et nous avons bien terminer tous nos objectifs que nous nous sommes donnés la semaine précédente.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- Aucunes informations.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+- Aucunes informations.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+- Aucunes informations.
 
 ### Défis pour la prochaine semaine
+- Pratiquer mon texte pour la présentation en direct.
