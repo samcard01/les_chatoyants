@@ -264,73 +264,84 @@ La semaine prochaine, je veux filmer nos vidéos et les monter pour la partie en
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
-
+- Installation définitive des hauts-parleurs au sol
+- Test du son pour l'installation physique et pour la diffusion
+- Démêler les fils 
+- Arranger l'apparence des fils
+- Changement de l'emplacement de l'ordinateur
+- Rencontre hebdomadaire du comité de diffusion
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Apparence finale installation](medias/samuel_journal_07.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Cette semaine, il y avait beaucoup de choses à faire pour notre installation dans le grand studio. Étant donné que les vidéos ne peuvent être filmées que si l'installation est finale, je n'ai pas pu les filmer avec mon équipe. Par la même occasion, les vidéos n'ont pas pu être montées ni être mises en ligne. Cependant, nous avons réalisé l'apparence définitive de notre installation et tout fonctionne, c'est-à-dire la projection dans les boîtes, la projection au mur, le son d'ambiance et celui des boîtes ainsi que les lumières des boîtes.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Le tournage sera effectué lundi le 15 mars et le montage des vidéos sera réalisé le lendemain, donc le 16 mars. Le site web sera mis en ligne en même temps que les vidéos.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+La semaine prochaine, je dois monter les vidéos de notre installation, les mettre en ligne, les rajouter au site web et mettre le site web de notre expérience en ligne. Il y aura aussi la pratique générale.
 
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
-
+- Pratique de l'oral de présentation finale
+- Pratique générale au grand studio
+- Mise en ligne du site web
+- Mise en ligne des vidéos
+- Montage des vidéos pov et de la vidéo en direct
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Montage vidéos](medias/samuel_journal_08.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Cette semaine, il y avait plusieurs choses à faire, cependant j'ai dédié des journées spécifiques pour les tâches que j'ai faites. Par exemple, j'ai consacré toute ma journée du mercredi à faire le montage et la mise en ligne des vidéos. Aussi, nous avions fait la majorité de ce qui avait à faire au grand studio surtout en début de semaine, ce qui m'a laissé plus de temps pour mes tâches personnelles.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+La semaine prochaine, je veux continuer à pratiquer mon oral afin d'être prêt à présenter pour la présentation en direct du 25 mars.

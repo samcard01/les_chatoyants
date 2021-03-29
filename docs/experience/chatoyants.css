@@ -1,0 +1,145 @@
+@media screen and (min-width:1121px) {
+    body {
+        background-image: url("background.jpg");
+        margin: 0;
+    }
+    .titre {
+        display: flex;
+        justify-content: center;
+    }
+    .texte_titre {
+        height: auto;
+        width: 80%;
+        position: absolute;
+        top: 10%;
+    }
+    .boites {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        margin: 0px 20px;
+        transform: translateY(140%);
+    }
+    .boite {
+        margin: 0px 30px;
+    }
+    .mathis,
+    .jasmine,
+    .jacques {
+        height: 250px;
+        width: 250px;
+    }
+    .texte_explicatif_ligne,
+    .savoir_plus {
+        text-align: center;
+        font-family: 'Lucida Fax';
+        color: white;
+    }
+    .texte_explicatif_ligne {
+        font-size: 20px;
+        margin: 0px 300px;
+        position: relative;
+        top: 36%;
+    }
+    .savoir_plus {
+        font-size: 17.5px;
+        font-style: italic;
+        transform: translateY(2100%);
+    }
+}
+
+@media screen and (max-width:1121px) {
+    body {
+        background-image: url("background.jpg");
+        margin: 0;
+    }
+    .titre {
+        display: flex;
+        justify-content: center;
+    }
+    .texte_titre {
+        height: auto;
+        width: 80%;
+        position: absolute;
+        top: 10%;
+    }
+    .boites {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        transform: translateY(170%);
+    }
+    .boite {
+        margin: 0px 5px;
+    }
+    .mathis,
+    .jasmine,
+    .jacques {
+        height: 200px;
+        width: 200px;
+    }
+    .texte_explicatif_ligne,
+    .savoir_plus {
+        text-align: center;
+        font-family: 'Lucida Fax';
+        color: white;
+    }
+    .texte_explicatif_ligne {
+        font-size: 20px;
+        transform: translateY(80%);
+        margin: 0px 50px;
+    }
+    .savoir_plus {
+        font-size: 17.5px;
+        font-style: italic;
+        transform: translateY(2000%);
+    }
+}
+
+@media screen and (max-width:636px) {
+    body {
+        background-image: url("background.jpg");
+        margin: 0;
+    }
+    .titre {
+        display: flex;
+        justify-content: center;
+    }
+    .texte_titre {
+        height: auto;
+        width: 80%;
+    }
+    .boites {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        flex-direction: column;
+        margin: 0 auto;
+        transform: translateY(50%);
+    }
+    .boite {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .mathis,
+    .jasmine,
+    .jacques {
+        height: 150px;
+        width: 150px;
+    }
+    .texte_explicatif_ligne,
+    .savoir_plus {
+        text-align: center;
+        font-family: 'Lucida Fax';
+        color: white;
+    }
+    .texte_explicatif_ligne {
+        font-size: 70%;
+        position: absolute;
+        top: 17%;
+    }
+    .savoir_plus {
+        font-size: 11.5px;
+        font-style: italic;
+    }
+}
